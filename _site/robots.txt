@@ -1,1 +1,1 @@
-Sitemap: https://najlaabassi.website.github.io/sitemap.xml
+Sitemap: https://najlaabassi.github.io/website/sitemap.xml
