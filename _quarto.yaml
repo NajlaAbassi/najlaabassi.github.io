@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Najla Abassi"
+  page-footer: "© 2025 Najla Abassi | Built with Quarto"
+  navbar:
+    background: "#9fd0f5"
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Portfolio"
+        href: portfolio.qmd
+      - text: "Learning Logs"
+        href: learning_logs.qmd
+      - text: "Find Me Online"
+        href: contact.qmd
+
+format:
+  html
