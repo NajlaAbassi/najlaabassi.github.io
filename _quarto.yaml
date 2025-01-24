@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Najla Abassi"
+  site-url: "https://najlaabassi.website.github.io"
   page-footer: "© 2025 Najla Abassi | Built with Quarto"
   navbar:
     background: "#9fd0f5"
