@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://najlaabassi.website.github.io/portfolio.html</loc>
+    <lastmod>2025-01-24T19:41:13.475Z</lastmod>
+  </url>
+  <url>
+    <loc>https://najlaabassi.website.github.io/publications.html</loc>
+    <lastmod>2025-01-24T19:41:13.023Z</lastmod>
+  </url>
+  <url>
+    <loc>https://najlaabassi.website.github.io/contact.html</loc>
+    <lastmod>2025-01-24T19:41:12.588Z</lastmod>
+  </url>
+  <url>
     <loc>https://najlaabassi.website.github.io/index.html</loc>
-    <lastmod>2025-01-24T19:37:19.387Z</lastmod>
+    <lastmod>2025-01-24T19:41:12.806Z</lastmod>
+  </url>
+  <url>
+    <loc>https://najlaabassi.website.github.io/learning_logs.html</loc>
+    <lastmod>2025-01-24T19:41:13.226Z</lastmod>
+  </url>
+  <url>
+    <loc>https://najlaabassi.github.io/website/index.html</loc>
+    <lastmod>2025-01-24T19:42:45.358Z</lastmod>
   </url>
 </urlset>
