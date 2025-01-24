@@ -1,0 +1,46 @@
+---
+title: "Portfolio"
+format: html
+---
+
+## Research
+
+- **Research Associate, PhD candidate**, Department of Genomic Statistics and Bioinformatics, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center Mainz, Mainz, Germany
+
+- **Reseach Assistant**, Laboratory of Biomedical Genomics and Oncogenetics, Institut Pasteur de Tunis, Tunis,Tunisia
+
+- **Research Assistant**, Laboratory of Anatomy and Pathological Cytology, Salah Azaiez Institute of Oncology, Tunisia
+
+## Codeathons
+
+- **ASBCB Omics Codeathon April 2023**, African Society for Bioinformatics and Computational Biology
+
+  - *Project: Development of an open-source tool for the visualization of gene expression and variation data for biomarkers of neurological diseases*
+
+  - [GitHub Repo](https://github.com/omicscodeathon/neurovar)
+
+  - [Publication](https://gigabytejournal.com/articles/143)
+
+- **ASBCB Omics Codeathon Oct 2022**, African Society for Bioinformatics and Computational Biology
+
+  - *Project: Development of an R package for data analysis and visualization*
+
+  - [GitHub Repo](https://github.com/omicscodeathon/exvar)
+
+  - Publication: Submitted to Scientific Reports, under revision
+
+## Workshops
+
+- **Streamlining Omics Data Visualization with iSEE and iSEEfier**
+
+  - [Student Conference on Biological Sciences 2024 (SCBS2024)](https://sites.google.com/fshn.edu.al/scbs-2024/home)
+
+  - [GitHub Repo](https://github.com/NajlaAbassi/iSEEfierWorkshopSCBS2024)
+
+## Education
+
+**Master of Science in Bioinformatics**, University of Manouba, Tunisia
+
+**Master of Science in Biochemistry**, University of Tunis El Manar, Tunisia
+
+**Bachelor of Science in Biology**, University of Tunis El Manar, Tunisia
