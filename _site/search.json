@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Najla Abassi",
+    "section": "",
+    "text": "☀️ Researcher by day | 🌙 Artist by night\nHi I’m Najla 👋 I’m a Research Associate and PhD candidate at Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center Mainz, Germany, with a background in biology and a focus on bioinformatics. My research centers on analyzing omics data, particularly transcriptomics, and developing R packages to help biologists in uncovering biological insights. Outside of work, I’m a self-taught digital artist who loves creating colorful illustrations and finding inspiration in nature."
+  },
+  {
+    "objectID": "index.html#najla-abassi",
+    "href": "index.html#najla-abassi",
+    "title": "Najla Abassi",
+    "section": "Najla Abassi",
+    "text": "Najla Abassi\nHi I’m Najla 👋 I’m a Research Associate and PhD candidate at Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center Mainz, Germany, with a background in biology and a focus on bioinformatics. My research centers on analyzing omics data, particularly transcriptomics, and developing R packages to help biologists in uncovering biological insights. Outside of work, I’m a self-taught digital artist who loves creating colorful illustrations and finding inspiration in nature.\n\nFeatured Content\n\nLatest Learning Log\nComing Soon…"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Google scholar\n\n2024\n\nDeep Cellular and Molecular Characterization Reveal a Distinct Phenotype and Metabolic Signature of Human Senescent CD8+ T Cells: Implication for Cancer Cellular Therapy (doi: 10.1182/blood-2024-194719)\nNeuroVar: an open-source tool for gene expression and variation data visualization for biomarkers of neurological diseases (doi: 10.46471/gigabyte.143)\nInsights, opportunities and challenges provided by large cell atlases (doi: 10.48550/arXiv.2408.06563)\nEthnic and functional differentiation of copy number polymorphisms in Tunisian and HapMap population unveils insights on genome organizational plasticity (doi: 10.1038/s41598-024-54749-8)\n\n\n\n2023\n\nConsanguinty and its impact on health and genome dynamic: An example from Tunisia (doi:10.62438/tunismed.v102i5.4787)"
+  },
+  {
+    "objectID": "get_in_touch.html",
+    "href": "get_in_touch.html",
+    "title": "Get in Touch",
+    "section": "",
+    "text": "Email\nGithub\nLinkedIn\nInstagram\nBluesky\nTwitter\nTwitch"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: najla.abassi(at)uni-mainz(dot)de\n GitHub\n LinkedIn\n Instagram\nBluesky\n Twitter\n Twitch"
+  },
+  {
+    "objectID": "learning_logs.html",
+    "href": "learning_logs.html",
+    "title": "Learning Logs",
+    "section": "",
+    "text": "Welcome to my Learning Logs! Here, I document insights, ideas, and discoveries that I find exciting. Click on a log entry to explore more.\nTODO"
+  },
+  {
+    "objectID": "learning_logs.html#learning-logs",
+    "href": "learning_logs.html#learning-logs",
+    "title": "learning logs",
+    "section": "",
+    "text": "Welcome to my Learning Logs! Here, I document insights, ideas, and discoveries that I find exciting. Click on a log entry to explore more.\nTODO\nputting some ideas.\nfor e.g [Jan 23, 2025] What do I need to know about Web Development with Quarto in R (tag: Web Development)\ntopics that i can write about:\n\nDE analysis with DESeq\nclustering algorithms (so i actually learn more about them myself XD)\nvisualization: plot types and when to use them\ngoing from bulk to sc\ndeveloping a new class in R"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Najla Abassi",
+    "section": "",
+    "text": "☀️ Researcher by day | 🌙 Artist by night\nHi I’m Najla 👋 I’m a Research Associate and PhD candidate at Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center Mainz, Germany, with a background in biology and a focus on bioinformatics. My research centers on analyzing omics data, particularly transcriptomics, and developing R packages to help biologists in uncovering biological insights. Outside of work, I’m a self-taught digital artist who loves creating colorful illustrations and finding inspiration in nature."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Research Associate, PhD candidate, Department of Genomic Statistics and Bioinformatics, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center Mainz, Mainz, Germany\nReseach Assistant, Laboratory of Biomedical Genomics and Oncogenetics, Institut Pasteur de Tunis, Tunis,Tunisia\nResearch Assistant, Laboratory of Anatomy and Pathological Cytology, Salah Azaiez Institute of Oncology, Tunisia"
+  },
+  {
+    "objectID": "portfolio.html#research",
+    "href": "portfolio.html#research",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Research Associate, PhD candidate, Department of Genomic Statistics and Bioinformatics, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center Mainz, Mainz, Germany\nReseach Assistant, Laboratory of Biomedical Genomics and Oncogenetics, Institut Pasteur de Tunis, Tunis,Tunisia\nResearch Assistant, Laboratory of Anatomy and Pathological Cytology, Salah Azaiez Institute of Oncology, Tunisia"
+  },
+  {
+    "objectID": "portfolio.html#codeathons",
+    "href": "portfolio.html#codeathons",
+    "title": "Portfolio",
+    "section": "Codeathons",
+    "text": "Codeathons\n\nASBCB Omics Codeathon April 2023, African Society for Bioinformatics and Computational Biology\n\nProject: Development of an open-source tool for the visualization of gene expression and variation data for biomarkers of neurological diseases\nGitHub Repo\nPublication\n\nASBCB Omics Codeathon Oct 2022, African Society for Bioinformatics and Computational Biology\n\nProject: Development of an R package for data analysis and visualization\nGitHub Repo\nPublication: Submitted to Scientific Reports, under revision"
+  },
+  {
+    "objectID": "portfolio.html#workshops",
+    "href": "portfolio.html#workshops",
+    "title": "Portfolio",
+    "section": "Workshops",
+    "text": "Workshops\n\nStreamlining Omics Data Visualization with iSEE and iSEEfier\n\nStudent Conference on Biological Sciences 2024 (SCBS2024)\nGitHub Repo"
+  },
+  {
+    "objectID": "portfolio.html#education",
+    "href": "portfolio.html#education",
+    "title": "Portfolio",
+    "section": "Education",
+    "text": "Education\nMaster of Science in Bioinformatics, University of Manouba, Tunisia\nMaster of Science in Biochemistry, University of Tunis El Manar, Tunisia\nBachelor of Science in Biology, University of Tunis El Manar, Tunisia"
+  }
+]
