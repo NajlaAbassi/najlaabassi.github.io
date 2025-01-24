@@ -1,0 +1,20 @@
+---
+title: "Publications"
+format: html
+---
+
+[Google scholar](https://scholar.google.com/citations?user=XY4UafAAAAAJ&hl=en)
+
+### 2024
+
+- Deep Cellular and Molecular Characterization Reveal a Distinct Phenotype and Metabolic Signature of Human Senescent CD8+ T Cells: Implication for Cancer Cellular Therapy ([doi: 10.1182/blood-2024-194719](https://doi.org/10.1182/blood-2024-194719))
+
+- NeuroVar: an open-source tool for gene expression and variation data visualization for biomarkers of neurological diseases ([doi: 10.46471/gigabyte.143](https://doi.org/10.46471/gigabyte.143))
+
+- Insights, opportunities and challenges provided by large cell atlases ([doi: 10.48550/arXiv.2408.06563](https://doi.org/10.48550/arXiv.2408.06563))
+
+- Ethnic and functional differentiation of copy number polymorphisms in Tunisian and HapMap population unveils insights on genome organizational plasticity ([doi: 10.1038/s41598-024-54749-8](https://doi.org/10.1038/s41598-024-54749-8))
+
+### 2023
+
+- Consanguinty and its impact on health and genome dynamic: An example from Tunisia ([doi:10.62438/tunismed.v102i5.4787](https://doi.org/10.62438/tunismed.v102i5.4787))
