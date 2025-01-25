@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://najlaabassi.website.github.io/portfolio.html</loc>
-    <lastmod>2025-01-24T19:41:13.475Z</lastmod>
+    <loc>https://najlaabassi.github.io/website/portfolio.html</loc>
+    <lastmod>2025-01-24T20:03:54.406Z</lastmod>
   </url>
   <url>
-    <loc>https://najlaabassi.website.github.io/publications.html</loc>
-    <lastmod>2025-01-24T19:41:13.023Z</lastmod>
+    <loc>https://najlaabassi.github.io/website/publications.html</loc>
+    <lastmod>2025-01-24T20:03:53.960Z</lastmod>
   </url>
   <url>
-    <loc>https://najlaabassi.website.github.io/contact.html</loc>
-    <lastmod>2025-01-24T19:41:12.588Z</lastmod>
-  </url>
-  <url>
-    <loc>https://najlaabassi.website.github.io/index.html</loc>
-    <lastmod>2025-01-24T19:41:12.806Z</lastmod>
-  </url>
-  <url>
-    <loc>https://najlaabassi.website.github.io/learning_logs.html</loc>
-    <lastmod>2025-01-24T19:41:13.226Z</lastmod>
+    <loc>https://najlaabassi.github.io/website/contact.html</loc>
+    <lastmod>2025-01-24T20:07:17.083Z</lastmod>
   </url>
   <url>
     <loc>https://najlaabassi.github.io/website/index.html</loc>
-    <lastmod>2025-01-24T19:42:45.358Z</lastmod>
+    <lastmod>2025-01-24T20:03:53.735Z</lastmod>
+  </url>
+  <url>
+    <loc>https://najlaabassi.github.io/website/learning_logs.html</loc>
+    <lastmod>2025-01-24T20:13:13.138Z</lastmod>
   </url>
 </urlset>
