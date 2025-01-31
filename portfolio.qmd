@@ -5,11 +5,17 @@ format: html
 
 ## Research
 
-- **Research Associate, PhD candidate**, Department of Genomic Statistics and Bioinformatics, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center Mainz, Mainz, Germany
+- **Research Associate, PhD student**, Department of Genomic Statistics and Bioinformatics, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center Mainz, Mainz, Germany
 
-- **Reseach Assistant**, Laboratory of Biomedical Genomics and Oncogenetics, Institut Pasteur de Tunis, Tunis,Tunisia
+  - *SFB1292 Project: Investigating the tissue repair program of Treg cells as an immune evasion strategy in tumor and chronic infections*
 
-- **Research Assistant**, Laboratory of Anatomy and Pathological Cytology, Salah Azaiez Institute of Oncology, Tunisia
+- **Reseach Assistant**, Laboratory of Biomedical Genomics and Oncogenetics, Institut Pasteur de Tunis, Tunis, Tunisia
+
+  - *Project: Estimation of homozygosity in the Tunisian population from high throughput genotyping data*
+
+- **Research Assistant**, Laboratory of Anatomy and Pathological Cytology, Salah Azaiez Institute of Oncology, Tunis, Tunisia
+
+  - *Project: Study of PD-L1 expression in anaplastic large cell lymphoma ALK (-)*
 
 ## Codeathons
 
@@ -44,3 +50,10 @@ format: html
 **Master of Science in Biochemistry**, University of Tunis El Manar, Tunisia
 
 **Bachelor of Science in Biology**, University of Tunis El Manar, Tunisia
+
+## Interests
+
+- Professional illustrator and Digital artist
+
+  - Portfolio: [<i class="fab fa-instagram"></i> Instagram](https://www.instagram.com/guigadraws)
+
