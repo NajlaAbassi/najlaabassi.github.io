@@ -12,6 +12,6 @@ format:
 *☀️ Researcher by day | 🌙 Artist by night*
 
 Hi I'm Najla 👋 
-I'm a Research Associate and PhD candidate at [Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI)](https://www.unimedizin-mainz.de/imbei/), [University Medical Center Mainz](https://www.unimedizin-mainz.de/), Germany, with a background in biology and a focus on bioinformatics. My research centers on analyzing omics data, particularly transcriptomics, and developing R packages to help biologists in uncovering biological insights. Outside of work, I’m a self-taught digital artist who loves creating colorful illustrations and finding inspiration in nature.
+I'm a Research Associate and PhD student at [Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI)](https://www.unimedizin-mainz.de/imbei/), [University Medical Center Mainz](https://www.unimedizin-mainz.de/), Germany, with a background in biology and a focus on bioinformatics. My research centers on analyzing omics data, particularly transcriptomics, and developing R packages to help biologists in uncovering biological insights. Outside of work, I’m a self-taught digital artist who loves creating colorful illustrations and finding inspiration in nature.
 
 </center>
