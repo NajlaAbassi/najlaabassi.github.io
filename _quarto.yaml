@@ -16,7 +16,7 @@ website:
       - text: "Portfolio"
         href: portfolio.qmd
       - text: "Software"
-      - href: software.qmd
+        href: software.qmd
       - text: "Learning Logs"
         href: learning_logs.qmd
       - text: "Find Me Online"

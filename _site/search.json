@@ -42,18 +42,11 @@
     "text": "Interests\n\nProfessional illustrator and Digital artist\n\nPortfolio:  Instagram"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "learning_logs.html",
+    "href": "learning_logs.html",
+    "title": "Learning Logs",
     "section": "",
-    "text": "Google scholar\n\n2024\n\nDeep Cellular and Molecular Characterization Reveal a Distinct Phenotype and Metabolic Signature of Human Senescent CD8+ T Cells: Implication for Cancer Cellular Therapy (doi: 10.1182/blood-2024-194719)\nNeuroVar: an open-source tool for gene expression and variation data visualization for biomarkers of neurological diseases (doi: 10.46471/gigabyte.143)\nInsights, opportunities and challenges provided by large cell atlases (doi: 10.48550/arXiv.2408.06563)\nEthnic and functional differentiation of copy number polymorphisms in Tunisian and HapMap population unveils insights on genome organizational plasticity (doi: 10.1038/s41598-024-54749-8)\n\n\n\n2023\n\nConsanguinty and its impact on health and genome dynamic: An example from Tunisia (doi:10.62438/tunismed.v102i5.4787)"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Email: najla.abassi(at)uni-mainz(dot)de\n GitHub\n LinkedIn\n Instagram\nBluesky\n Twitter\n Twitch"
+    "text": "Welcome to my Learning Logs! Here, I document/share insights, ideas, tutorials and discoveries that I find exciting.\nStay tuned ⏳"
   },
   {
     "objectID": "index.html",
@@ -70,10 +63,31 @@
     "text": "☀️ Researcher by day | 🌙 Artist by night\nHi I’m Najla 👋 I’m a Research Associate and PhD student at Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center Mainz, Germany, with a background in biology and a focus on bioinformatics. My research centers on analyzing omics data, particularly transcriptomics, and developing R packages to help biologists in uncovering biological insights. Outside of work, I’m a self-taught digital artist who loves creating colorful illustrations and finding inspiration in nature."
   },
   {
-    "objectID": "learning_logs.html",
-    "href": "learning_logs.html",
-    "title": "Learning Logs",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "Welcome to my Learning Logs! Here, I document/share insights, ideas, tutorials and discoveries that I find exciting.\nStay tuned ⏳"
+    "text": "Email: najla.abassi(at)uni-mainz(dot)de\n GitHub\n LinkedIn\n Instagram\nBluesky\n Twitter\n Twitch"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Google scholar\n\n2024\n\nDeep Cellular and Molecular Characterization Reveal a Distinct Phenotype and Metabolic Signature of Human Senescent CD8+ T Cells: Implication for Cancer Cellular Therapy (doi: 10.1182/blood-2024-194719)\nNeuroVar: an open-source tool for gene expression and variation data visualization for biomarkers of neurological diseases (doi: 10.46471/gigabyte.143)\nInsights, opportunities and challenges provided by large cell atlases (doi: 10.48550/arXiv.2408.06563)\nEthnic and functional differentiation of copy number polymorphisms in Tunisian and HapMap population unveils insights on genome organizational plasticity (doi: 10.1038/s41598-024-54749-8)\n\n\n\n2023\n\nConsanguinty and its impact on health and genome dynamic: An example from Tunisia (doi:10.62438/tunismed.v102i5.4787)"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "iSEEfier\n\nStreamlining the creation of initial states for starting an iSEE instance\n\nNeuroVar\n\nAn open-source tool for the visualization of gene expression and variation data for biomarkers of neurological diseases\n\nexvar\n\nAn R Package for Gene Expression and Genetic Variation Data Analysis and Visualization"
+  },
+  {
+    "objectID": "software.html#packages",
+    "href": "software.html#packages",
+    "title": "Software",
+    "section": "",
+    "text": "iSEEfier\n\nStreamlining the creation of initial states for starting an iSEE instance\n\nNeuroVar\n\nAn open-source tool for the visualization of gene expression and variation data for biomarkers of neurological diseases\n\nexvar\n\nAn R Package for Gene Expression and Genetic Variation Data Analysis and Visualization"
   }
 ]

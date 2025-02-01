@@ -1,9 +1,7 @@
 ---
-title: "Software"
+title: "Packages"
 format: html
 ---
-
-## Packages
 
 -   [*iSEEfier*](https://www.bioconductor.org/packages/iSEEfier)
 
@@ -11,8 +9,8 @@ format: html
 
 -   [*NeuroVar*](https://github.com/omicscodeathon/neurovar)
 
-    - An open-source tool for the visualization of gene expression and variation data for biomarkers of neurological diseases
+    -   An open-source tool for the visualization of gene expression and variation data for biomarkers of neurological diseases
 
 -   [*exvar*](https://github.com/omicscodeathon/exvar)
 
-    - An R Package for Gene Expression and Genetic Variation Data Analysis and Visualization
+    -   An R Package for Gene Expression and Genetic Variation Data Analysis and Visualization
