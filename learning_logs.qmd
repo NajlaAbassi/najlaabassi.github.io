@@ -4,8 +4,10 @@ format: html
 
 ---
 
-Welcome to my Learning Logs! Here, I document insights, ideas, and discoveries that I find exciting.
+Welcome to my Learning Logs! Here, I document/share insights, ideas, tutorials and discoveries that I find exciting.
 
 Stay tuned ⏳
+
+![](img/404.jpg) 
 
 
