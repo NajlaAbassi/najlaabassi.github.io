@@ -79,14 +79,7 @@
   {
     "objectID": "software.html",
     "href": "software.html",
-    "title": "Software",
-    "section": "",
-    "text": "iSEEfier\n\nStreamlining the creation of initial states for starting an iSEE instance\n\nNeuroVar\n\nAn open-source tool for the visualization of gene expression and variation data for biomarkers of neurological diseases\n\nexvar\n\nAn R Package for Gene Expression and Genetic Variation Data Analysis and Visualization"
-  },
-  {
-    "objectID": "software.html#packages",
-    "href": "software.html#packages",
-    "title": "Software",
+    "title": "Packages",
     "section": "",
     "text": "iSEEfier\n\nStreamlining the creation of initial states for starting an iSEE instance\n\nNeuroVar\n\nAn open-source tool for the visualization of gene expression and variation data for biomarkers of neurological diseases\n\nexvar\n\nAn R Package for Gene Expression and Genetic Variation Data Analysis and Visualization"
   }
