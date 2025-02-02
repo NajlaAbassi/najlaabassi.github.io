@@ -4,7 +4,7 @@
     "href": "portfolio.html",
     "title": "Portfolio",
     "section": "",
-    "text": "Research Associate, PhD student, Department of Genomic Statistics and Bioinformatics, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center Mainz, Mainz, Germany\n\nSFB1292 Project: Investigating the tissue repair program of Treg cells as an immune evasion strategy in tumor and chronic infections\n\nReseach Assistant, Laboratory of Biomedical Genomics and Oncogenetics, Institut Pasteur de Tunis, Tunis, Tunisia\n\nProject: Estimation of homozygosity in the Tunisian population from high throughput genotyping data\n\nResearch Assistant, Laboratory of Anatomy and Pathological Cytology, Salah Azaiez Institute of Oncology, Tunis, Tunisia\n\nProject: Study of PD-L1 expression in anaplastic large cell lymphoma ALK (-)"
+    "text": "Research\n\nResearch Associate, PhD student, Department of Genomic Statistics and Bioinformatics, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center Mainz, Mainz, Germany (since 10.2023)\n\nSFB1292 Project: Investigating the tissue repair program of Treg cells as an immune evasion strategy in tumor and chronic infections\n\nReseach Assistant, Laboratory of Biomedical Genomics and Oncogenetics, Institut Pasteur de Tunis, Tunis, Tunisia (04.2022-09.2023)\n\nProject: Estimation of homozygosity in the Tunisian population from high throughput genotyping data\n\nResearch Assistant, Laboratory of Anatomy and Pathological Cytology, Salah Azaiez Institute of Oncology, Tunis, Tunisia (06.2020-03.2021)\n\nProject: Study of PD-L1 expression in anaplastic large cell lymphoma ALK (-)\n\n\n\n\nCodeathons\n\nASBCB Omics Codeathon April 2023, African Society for Bioinformatics and Computational Biology\n\nProject: Development of an open-source tool for the visualization of gene expression and variation data for biomarkers of neurological diseases\nGitHub Repo\nPublication\n\nASBCB Omics Codeathon Oct 2022, African Society for Bioinformatics and Computational Biology\n\nProject: Development of an R package for data analysis and visualization\nGitHub Repo\nPublication: Submitted to Scientific Reports, under revision\n\n\n\n\nWorkshops\n\nStreamlining Omics Data Visualization with iSEE and iSEEfier\n\nStudent Conference on Biological Sciences 2024 (SCBS2024)\nGitHub Repo\n\n\n\n\nEducation\nMaster of Science in Bioinformatics, University of Manouba, Tunisia (2021-2022)\nMaster of Science in Biochemistry, University of Tunis El Manar, Tunisia (2018-2021)\nBachelor of Science in Biology, University of Tunis El Manar, Tunisia (2015-2018)\n\n\nInterests\n\nProfessional illustrator and Digital artist\n\nPortfolio:  Instagram"
   },
   {
     "objectID": "portfolio.html#research",
@@ -46,7 +46,7 @@
     "href": "learning_logs.html",
     "title": "Learning Logs",
     "section": "",
-    "text": "Welcome to my Learning Logs! Here, I document/share insights, ideas, tutorials and discoveries that I find exciting.\nStay tuned ⏳"
+    "text": "Welcome to my Learning Logs! This is going to be like a blog, where I document/share insights, ideas, tutorials and discoveries that I find exciting!"
   },
   {
     "objectID": "index.html",
@@ -67,7 +67,7 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Email: najla.abassi(at)uni-mainz(dot)de\n GitHub\n LinkedIn\n Instagram\nBluesky\n Twitter\n Twitch"
+    "text": "Email: najla.abassi(at)uni-mainz(dot)de\n GitHub\n LinkedIn\n Instagram\n Bluesky\n Twitter\n Twitch"
   },
   {
     "objectID": "publications.html",
@@ -79,14 +79,7 @@
   {
     "objectID": "software.html",
     "href": "software.html",
-    "title": "Software",
-    "section": "",
-    "text": "iSEEfier\n\nStreamlining the creation of initial states for starting an iSEE instance\n\nNeuroVar\n\nAn open-source tool for the visualization of gene expression and variation data for biomarkers of neurological diseases\n\nexvar\n\nAn R Package for Gene Expression and Genetic Variation Data Analysis and Visualization"
-  },
-  {
-    "objectID": "software.html#packages",
-    "href": "software.html#packages",
-    "title": "Software",
+    "title": "Packages",
     "section": "",
     "text": "iSEEfier\n\nStreamlining the creation of initial states for starting an iSEE instance\n\nNeuroVar\n\nAn open-source tool for the visualization of gene expression and variation data for biomarkers of neurological diseases\n\nexvar\n\nAn R Package for Gene Expression and Genetic Variation Data Analysis and Visualization"
   }

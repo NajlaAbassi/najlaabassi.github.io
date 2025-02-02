@@ -5,7 +5,9 @@ format:
 
 <center>
 
-![](img/najla-bioc.png) 
+<div class="banner-container">
+  <img src="img/najla-bioc.png">
+</div>
 
 ## About Me
 

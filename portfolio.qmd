@@ -3,21 +3,21 @@ title: "Portfolio"
 format: html
 ---
 
-## Research
+### Research
 
-- **Research Associate, PhD student**, Department of Genomic Statistics and Bioinformatics, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center Mainz, Mainz, Germany
+- **Research Associate, PhD student**, Department of Genomic Statistics and Bioinformatics, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center Mainz, Mainz, Germany (since 10.2023)
 
   - *SFB1292 Project: Investigating the tissue repair program of Treg cells as an immune evasion strategy in tumor and chronic infections*
 
-- **Reseach Assistant**, Laboratory of Biomedical Genomics and Oncogenetics, Institut Pasteur de Tunis, Tunis, Tunisia
+- **Reseach Assistant**, Laboratory of Biomedical Genomics and Oncogenetics, Institut Pasteur de Tunis, Tunis, Tunisia (04.2022-09.2023)
 
   - *Project: Estimation of homozygosity in the Tunisian population from high throughput genotyping data*
 
-- **Research Assistant**, Laboratory of Anatomy and Pathological Cytology, Salah Azaiez Institute of Oncology, Tunis, Tunisia
+- **Research Assistant**, Laboratory of Anatomy and Pathological Cytology, Salah Azaiez Institute of Oncology, Tunis, Tunisia (06.2020-03.2021)
 
   - *Project: Study of PD-L1 expression in anaplastic large cell lymphoma ALK (-)*
 
-## Codeathons
+### Codeathons
 
 - **ASBCB Omics Codeathon April 2023**, African Society for Bioinformatics and Computational Biology
 
@@ -35,7 +35,7 @@ format: html
 
   - Publication: Submitted to Scientific Reports, under revision
 
-## Workshops
+### Workshops
 
 - **Streamlining Omics Data Visualization with iSEE and iSEEfier**
 
@@ -43,17 +43,17 @@ format: html
 
   - [GitHub Repo](https://github.com/NajlaAbassi/iSEEfierWorkshopSCBS2024)
 
-## Education
+### Education
 
-**Master of Science in Bioinformatics**, University of Manouba, Tunisia
+**Master of Science in Bioinformatics**, University of Manouba, Tunisia (2021-2022)
 
-**Master of Science in Biochemistry**, University of Tunis El Manar, Tunisia
+**Master of Science in Biochemistry**, University of Tunis El Manar, Tunisia (2018-2021)
 
-**Bachelor of Science in Biology**, University of Tunis El Manar, Tunisia
+**Bachelor of Science in Biology**, University of Tunis El Manar, Tunisia (2015-2018)
 
-## Interests
+### Interests
 
 - Professional illustrator and Digital artist
 
-  - Portfolio: [<i class="fab fa-instagram"></i> Instagram](https://www.instagram.com/guigadraws)
+  - Portfolio: [ {{<fa brands instagram>}}  Instagram](https://www.instagram.com/guigadraws)
 

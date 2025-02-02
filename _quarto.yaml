@@ -3,11 +3,17 @@ project:
   output-dir: _site
 
 website:
-  title: "Najla Abassi"
   site-url: "https://najlaabassi.github.io"
   page-footer: "© 2025 Najla Abassi | Built with Quarto"
+  announcement:
+    icon: info-circle
+    dismissable: true
+    content: "Pardon the dust! This website is currently being updated 🚧"
+    type: danger
+    position: above-navbar
+  title: "Najla Abassi"
   navbar:
-    background: "#9fd0f5"
+    page-layout: none
     right:
       - text: "Home"
         href: index.qmd
@@ -21,6 +27,8 @@ website:
         href: learning_logs.qmd
       - text: "Find Me Online"
         href: contact.qmd
-
 format:
-  html
+  html:
+    theme:
+      light: styles.scss
+    css: styles.scss
