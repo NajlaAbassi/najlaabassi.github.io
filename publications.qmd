@@ -5,6 +5,10 @@ format: html
 
 [Google scholar](https://scholar.google.com/citations?user=XY4UafAAAAAJ&hl=en)
 
+### 2025
+
+- Ptprz Signaling, Tubule-and Macrophage-Mediated Kidney Injury, and Subsequent CKD ([doi:10.1681/ASN.0000000640](https://doi.org/10.1681/ASN.0000000640))
+
 ### 2024
 
 - Deep Cellular and Molecular Characterization Reveal a Distinct Phenotype and Metabolic Signature of Human Senescent CD8+ T Cells: Implication for Cancer Cellular Therapy ([doi: 10.1182/blood-2024-194719](https://doi.org/10.1182/blood-2024-194719))
