@@ -42,6 +42,12 @@ format: html
   - [Student Conference on Biological Sciences 2024 (SCBS2024)](https://sites.google.com/fshn.edu.al/scbs-2024/home)
 
   - [GitHub Repo](https://github.com/NajlaAbassi/iSEEfierWorkshopSCBS2024)
+  
+### Conferences
+
+- [EuroBioC2024](https://eurobioc2024.bioconductor.org/)
+
+  - **Poster**: [*iSEEfier: Starting to use iSEE became even easier*](https://eurobioc2024.bioconductor.org/abstracts/paper26/)
 
 ### Education
 
@@ -55,5 +61,5 @@ format: html
 
 - Professional illustrator and Digital artist
 
-  - Portfolio: [ {{<fa brands instagram>}}  Instagram](https://www.instagram.com/guigadraws)
+  - Art Gallery: [ {{<fa brands instagram>}}  Instagram](https://www.instagram.com/guigadraws)
 
