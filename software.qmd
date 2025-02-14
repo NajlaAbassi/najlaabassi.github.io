@@ -3,6 +3,8 @@ title: "Packages"
 format: html
 ---
 
+A list of tools and packages that I have contributed to as a developer and/or maintainer:
+
 -   [*iSEEfier*](https://www.bioconductor.org/packages/iSEEfier)
 
     -   Streamlining the creation of initial states for starting an iSEE instance
