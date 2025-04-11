@@ -7,6 +7,8 @@ format: html
 
 ### 2025
 
+- Efficient and easy gene expression and genetic variation data analysis and visualization using exvar ([doi:10.1038/s41598-025-93067-5](https://doi.org/10.1038/s41598-025-93067-5))
+
 - Ptprz Signaling, Tubule-and Macrophage-Mediated Kidney Injury, and Subsequent CKD ([doi:10.1681/ASN.0000000640](https://doi.org/10.1681/ASN.0000000640))
 
 ### 2024

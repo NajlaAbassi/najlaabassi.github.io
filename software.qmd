@@ -3,11 +3,15 @@ title: "Packages"
 format: html
 ---
 
-A list of tools and packages that I have contributed to as a developer and/or maintainer:
+A list of tools and packages that I have contributed to, either as a developer/maintainer or a occasional contributor:
+
+-   [*DeeDeeExperiment*](https://github.com/imbeimainz/DeeDeeExperiment)
+
+    - An S4 class built on SummarizedExperiment for integrating and managing omics data analysis results - *WIP*
 
 -   [*iSEEfier*](https://www.bioconductor.org/packages/iSEEfier)
 
-    -   Streamlining the creation of initial states for starting an iSEE instance
+    -   An R package for streamlining the creation of initial states for starting an iSEE instance
 
 -   [*NeuroVar*](https://github.com/omicscodeathon/neurovar)
 
@@ -16,3 +20,7 @@ A list of tools and packages that I have contributed to as a developer and/or ma
 -   [*exvar*](https://github.com/omicscodeathon/exvar)
 
     -   An R Package for Gene Expression and Genetic Variation Data Analysis and Visualization
+    
+-   [*ROHStats*](https://github.com/NajlaAbassi/ROHStats)
+
+    - An R package for fast and easy ROH statistics and visualization from PLINK outputs
