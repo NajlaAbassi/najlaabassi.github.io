@@ -7,25 +7,11 @@
     "text": "Research\n\nResearch Associate, PhD student, Department of Genomic Statistics and Bioinformatics, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center Mainz, Mainz, Germany (since 10.2023)\n\nSFB1292 Project: Investigating the tissue repair program of Treg cells as an immune evasion strategy in tumor and chronic infections\n\nReseach Assistant, Laboratory of Biomedical Genomics and Oncogenetics, Institut Pasteur de Tunis, Tunis, Tunisia (04.2022-09.2023)\n\nProject: Estimation of homozygosity in the Tunisian population from high throughput genotyping data\n\nResearch Assistant, Laboratory of Anatomy and Pathological Cytology, Salah Azaiez Institute of Oncology, Tunis, Tunisia (06.2020-03.2021)\n\nProject: Study of PD-L1 expression in anaplastic large cell lymphoma ALK (-)\n\n\n\n\nCodeathons\n\nASBCB Omics Codeathon April 2023, African Society for Bioinformatics and Computational Biology\n\nProject: Development of an open-source tool for the visualization of gene expression and variation data for biomarkers of neurological diseases\nGitHub Repo\nPublication\n\nASBCB Omics Codeathon Oct 2022, African Society for Bioinformatics and Computational Biology\n\nProject: Development of an R package for data analysis and visualization\nGitHub Repo\nPublication: Submitted to Scientific Reports, under revision\n\n\n\n\nWorkshops\n\nStreamlining Omics Data Visualization with iSEE and iSEEfier\n\nStudent Conference on Biological Sciences 2024 (SCBS2024)\nGitHub Repo\n\n\n\n\nConferences\n\nEuroBioC2024\n\nPoster: iSEEfier: Starting to use iSEE became even easier\n\n\n\n\nEducation\nMaster of Science in Bioinformatics, University of Manouba, Tunisia (2021-2022)\nMaster of Science in Biochemistry, University of Tunis El Manar, Tunisia (2018-2021)\nBachelor of Science in Biology, University of Tunis El Manar, Tunisia (2015-2018)\n\n\nInterests\n\nProfessional illustrator and Digital artist\n\nArt Gallery:  Instagram"
   },
   {
-    "objectID": "test.html",
-    "href": "test.html",
-    "title": "testing datatable in a loop",
+    "objectID": "learning_logs.html",
+    "href": "learning_logs.html",
+    "title": "Learning Logs",
     "section": "",
-    "text": "library(\"DT\")\n\n\nrows &lt;- 1:5\ncolumns &lt;- c(\"a\", \"b\", \"c\", \"d\", \"e\")\n\ndata &lt;- as.data.frame(matrix(sample(0:1, length(rows) * length(columns), replace = TRUE), \n                             nrow = length(rows), \n                             dimnames = list(rows, columns)))\n\noutput_list &lt;- list()\nfor (i in 1:nrow(data)) {\n  for (j in 1:ncol(data)) {\n    if (data[i, j] == 1) {\n      data[i, j] &lt;- data[i, j] + 1\n    }\n  }\n  #print(paste0(\"Table version \",i))\n  #output_list[[i]] = DT::datatable(data)\n  \n  output_list &lt;- append(output_list, list(htmltools::h3(paste0(\"Table version\", i)), DT::datatable(data)))\n\n}\nhtmltools::tagList(output_list)\n\nTable version1\n\n\nTable version2\n\n\nTable version3\n\n\nTable version4\n\n\nTable version5"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Google scholar\n\n2025\n\nPtprz Signaling, Tubule-and Macrophage-Mediated Kidney Injury, and Subsequent CKD (doi:10.1681/ASN.0000000640)\n\n\n\n2024\n\nDeep Cellular and Molecular Characterization Reveal a Distinct Phenotype and Metabolic Signature of Human Senescent CD8+ T Cells: Implication for Cancer Cellular Therapy (doi: 10.1182/blood-2024-194719)\nNeuroVar: an open-source tool for gene expression and variation data visualization for biomarkers of neurological diseases (doi: 10.46471/gigabyte.143)\nInsights, opportunities and challenges provided by large cell atlases (doi: 10.48550/arXiv.2408.06563)\nEthnic and functional differentiation of copy number polymorphisms in Tunisian and HapMap population unveils insights on genome organizational plasticity (doi: 10.1038/s41598-024-54749-8)\n\n\n\n2023\n\nConsanguinty and its impact on health and genome dynamic: An example from Tunisia (doi:10.62438/tunismed.v102i5.4787)"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Email: najla.abassi(at)uni-mainz(dot)de\n GitHub\n LinkedIn\n Instagram\n Bluesky\n Twitter\n Twitch"
+    "text": "Welcome to my Learning Logs! This is going to be like a blog, where I document/share insights, ideas, tutorials and discoveries that I find exciting!"
   },
   {
     "objectID": "index.html",
@@ -42,17 +28,31 @@
     "text": "☀️ Researcher by day | 🌙 Artist by night\nHi I’m Najla 👋 I’m a Research Associate and PhD student at Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center Mainz, Germany, with a background in biology and a focus on bioinformatics. My research centers on analyzing omics data, particularly transcriptomics, and developing R packages to help biologists in uncovering biological insights. Outside of work, I’m a self-taught digital artist who loves creating colorful illustrations and finding inspiration in nature."
   },
   {
-    "objectID": "learning_logs.html",
-    "href": "learning_logs.html",
-    "title": "Learning Logs",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "Welcome to my Learning Logs! This is going to be like a blog, where I document/share insights, ideas, tutorials and discoveries that I find exciting!"
+    "text": "Email: najla.abassi(at)uni-mainz(dot)de\n GitHub\n LinkedIn\n Instagram\n Bluesky\n Twitter\n Twitch"
+  },
+  {
+    "objectID": "fea-article_1.html",
+    "href": "fea-article_1.html",
+    "title": "Najla Abassi",
+    "section": "",
+    "text": "first article ._. cause this was the highlight of my day\nhow to perform functional enrichment analysis?\nAs I’m writing, I never performed functional enrichment analysis on single cell data before. However the concept should be the same with bulk data! I’m going to walk you through the steps and the tools I used in analyzing single cell data.\nfunctional enrichment analysis is a bioinformatics procedure that aims to identify the biological implications in a list of genes, usually being DEGs. In simply words (becuase why not), after generating large tables of DEGs, we want to know and understand in which biological pathways these genes are involved. There are several statistical methods that can be used to associate the most enriched biological pathways in the input gene list.\nTODO: tolk abt the different tools topGO, clusterPro … (this is an opportunity to read about them in more details)\nTODO: visualization, potentially using ggplot, genetonic, and maybe explore something else??\nTODO: highlight: by using genetonic you get the z score: which corresponds to\nTODO: maybe find an example of public data, and hopefully try to replicate the findings of the orignial authors, try add my personal touch, like i will be generating different plots using my own perspective, but eventually leading to the same conclusion. this is an opportunity to exploit my brain both as a biologist and a bioinformatician 😈. after all the goal of this is to teach bioinformatics “as bioinformatician” but from the perspective of a biologist"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Google scholar\n\n2025\n\nEfficient and easy gene expression and genetic variation data analysis and visualization using exvar (doi:10.1038/s41598-025-93067-5)\nPtprz Signaling, Tubule-and Macrophage-Mediated Kidney Injury, and Subsequent CKD (doi:10.1681/ASN.0000000640)\n\n\n\n2024\n\nDeep Cellular and Molecular Characterization Reveal a Distinct Phenotype and Metabolic Signature of Human Senescent CD8+ T Cells: Implication for Cancer Cellular Therapy (doi: 10.1182/blood-2024-194719)\nNeuroVar: an open-source tool for gene expression and variation data visualization for biomarkers of neurological diseases (doi: 10.46471/gigabyte.143)\nInsights, opportunities and challenges provided by large cell atlases (doi: 10.48550/arXiv.2408.06563)\nEthnic and functional differentiation of copy number polymorphisms in Tunisian and HapMap population unveils insights on genome organizational plasticity (doi: 10.1038/s41598-024-54749-8)\n\n\n\n2023\n\nConsanguinty and its impact on health and genome dynamic: An example from Tunisia (doi:10.62438/tunismed.v102i5.4787)"
   },
   {
     "objectID": "software.html",
     "href": "software.html",
     "title": "Packages",
     "section": "",
-    "text": "A list of tools and packages that I have contributed to as a developer and/or maintainer:\n\niSEEfier\n\nStreamlining the creation of initial states for starting an iSEE instance\n\nNeuroVar\n\nAn open-source tool for the visualization of gene expression and variation data for biomarkers of neurological diseases\n\nexvar\n\nAn R Package for Gene Expression and Genetic Variation Data Analysis and Visualization"
+    "text": "A list of tools and packages that I have contributed to, either as a developer/maintainer or a occasional contributor:\n\nDeeDeeExperiment\n\nAn S4 class built on SummarizedExperiment for integrating and managing omics data analysis results - WIP\n\niSEEfier\n\nAn R package for streamlining the creation of initial states for starting an iSEE instance\n\nNeuroVar\n\nAn open-source tool for the visualization of gene expression and variation data for biomarkers of neurological diseases\n\nexvar\n\nAn R Package for Gene Expression and Genetic Variation Data Analysis and Visualization\n\nROHStats\n\nAn R package for fast and easy ROH statistics and visualization from PLINK outputs"
   }
 ]

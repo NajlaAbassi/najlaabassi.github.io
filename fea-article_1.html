@@ -6,10 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Najla Abassi">
-<meta name="dcterms.date" content="2025-02-14">
 
-<title>testing datatable in a loop – Najla Abassi</title>
+<title>fea-article_1 – Najla Abassi</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -21,40 +19,6 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
-}
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -102,16 +66,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     "search-label": "Search"
   }
 }</script>
-<link href="site_libs/htmltools-fill-0.5.8.1/fill.css" rel="stylesheet">
-<script src="site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
-<link href="site_libs/datatables-css-0.0.0/datatables-crosstalk.css" rel="stylesheet">
-<script src="site_libs/datatables-binding-0.33/datatables.js"></script>
-<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
-<link href="site_libs/dt-core-1.13.6/css/jquery.dataTables.min.css" rel="stylesheet">
-<link href="site_libs/dt-core-1.13.6/css/jquery.dataTables.extra.css" rel="stylesheet">
-<script src="site_libs/dt-core-1.13.6/js/jquery.dataTables.min.js"></script>
-<link href="site_libs/crosstalk-1.2.1/css/crosstalk.min.css" rel="stylesheet">
-<script src="site_libs/crosstalk-1.2.1/js/crosstalk.min.js"></script>
 
 
 <link rel="stylesheet" href="styles.scss">
@@ -174,82 +128,19 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">testing datatable in a loop</h1>
-</div>
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
-<div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Najla Abassi </p>
-          </div>
-  </div>
-    
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">February 14, 2025</p>
-    </div>
-  </div>
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(<span class="st">"DT"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</div>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>rows <span class="ot">&lt;-</span> <span class="dv">1</span><span class="sc">:</span><span class="dv">5</span></span>
-<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>columns <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="st">"a"</span>, <span class="st">"b"</span>, <span class="st">"c"</span>, <span class="st">"d"</span>, <span class="st">"e"</span>)</span>
-<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>data <span class="ot">&lt;-</span> <span class="fu">as.data.frame</span>(<span class="fu">matrix</span>(<span class="fu">sample</span>(<span class="dv">0</span><span class="sc">:</span><span class="dv">1</span>, <span class="fu">length</span>(rows) <span class="sc">*</span> <span class="fu">length</span>(columns), <span class="at">replace =</span> <span class="cn">TRUE</span>), </span>
-<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>                             <span class="at">nrow =</span> <span class="fu">length</span>(rows), </span>
-<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>                             <span class="at">dimnames =</span> <span class="fu">list</span>(rows, columns)))</span>
-<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>output_list <span class="ot">&lt;-</span> <span class="fu">list</span>()</span>
-<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a><span class="cf">for</span> (i <span class="cf">in</span> <span class="dv">1</span><span class="sc">:</span><span class="fu">nrow</span>(data)) {</span>
-<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a>  <span class="cf">for</span> (j <span class="cf">in</span> <span class="dv">1</span><span class="sc">:</span><span class="fu">ncol</span>(data)) {</span>
-<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> (data[i, j] <span class="sc">==</span> <span class="dv">1</span>) {</span>
-<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a>      data[i, j] <span class="ot">&lt;-</span> data[i, j] <span class="sc">+</span> <span class="dv">1</span></span>
-<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a>    }</span>
-<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a>  }</span>
-<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a>  <span class="co">#print(paste0("Table version ",i))</span></span>
-<span id="cb2-16"><a href="#cb2-16" aria-hidden="true" tabindex="-1"></a>  <span class="co">#output_list[[i]] = DT::datatable(data)</span></span>
-<span id="cb2-17"><a href="#cb2-17" aria-hidden="true" tabindex="-1"></a>  </span>
-<span id="cb2-18"><a href="#cb2-18" aria-hidden="true" tabindex="-1"></a>  output_list <span class="ot">&lt;-</span> <span class="fu">append</span>(output_list, <span class="fu">list</span>(htmltools<span class="sc">::</span><span class="fu">h3</span>(<span class="fu">paste0</span>(<span class="st">"Table version"</span>, i)), DT<span class="sc">::</span><span class="fu">datatable</span>(data)))</span>
-<span id="cb2-19"><a href="#cb2-19" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-20"><a href="#cb2-20" aria-hidden="true" tabindex="-1"></a>}</span>
-<span id="cb2-21"><a href="#cb2-21" aria-hidden="true" tabindex="-1"></a>htmltools<span class="sc">::</span><span class="fu">tagList</span>(output_list)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output-display">
-<h3 class="anchored">Table version1</h3>
-<div class="datatables html-widget html-fill-item" id="htmlwidget-03eb11aded1a208d277c" style="width:100%;height:auto;"></div>
-<script type="application/json" data-for="htmlwidget-03eb11aded1a208d277c">{"x":{"filter":"none","vertical":false,"data":[["1","2","3","4","5"],[2,1,1,0,0],[2,1,0,1,1],[0,1,1,1,0],[0,0,0,0,0],[0,0,1,0,1]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>a<\/th>\n      <th>b<\/th>\n      <th>c<\/th>\n      <th>d<\/th>\n      <th>e<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"columnDefs":[{"className":"dt-right","targets":[1,2,3,4,5]},{"orderable":false,"targets":0},{"name":" ","targets":0},{"name":"a","targets":1},{"name":"b","targets":2},{"name":"c","targets":3},{"name":"d","targets":4},{"name":"e","targets":5}],"order":[],"autoWidth":false,"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
-<h3 class="anchored">Table version2</h3>
-<div class="datatables html-widget html-fill-item" id="htmlwidget-9a21f130dde9651f84c0" style="width:100%;height:auto;"></div>
-<script type="application/json" data-for="htmlwidget-9a21f130dde9651f84c0">{"x":{"filter":"none","vertical":false,"data":[["1","2","3","4","5"],[2,2,1,0,0],[2,2,0,1,1],[0,2,1,1,0],[0,0,0,0,0],[0,0,1,0,1]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>a<\/th>\n      <th>b<\/th>\n      <th>c<\/th>\n      <th>d<\/th>\n      <th>e<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"columnDefs":[{"className":"dt-right","targets":[1,2,3,4,5]},{"orderable":false,"targets":0},{"name":" ","targets":0},{"name":"a","targets":1},{"name":"b","targets":2},{"name":"c","targets":3},{"name":"d","targets":4},{"name":"e","targets":5}],"order":[],"autoWidth":false,"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
-<h3 class="anchored">Table version3</h3>
-<div class="datatables html-widget html-fill-item" id="htmlwidget-ccb6f09ee1458c634a55" style="width:100%;height:auto;"></div>
-<script type="application/json" data-for="htmlwidget-ccb6f09ee1458c634a55">{"x":{"filter":"none","vertical":false,"data":[["1","2","3","4","5"],[2,2,2,0,0],[2,2,0,1,1],[0,2,2,1,0],[0,0,0,0,0],[0,0,2,0,1]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>a<\/th>\n      <th>b<\/th>\n      <th>c<\/th>\n      <th>d<\/th>\n      <th>e<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"columnDefs":[{"className":"dt-right","targets":[1,2,3,4,5]},{"orderable":false,"targets":0},{"name":" ","targets":0},{"name":"a","targets":1},{"name":"b","targets":2},{"name":"c","targets":3},{"name":"d","targets":4},{"name":"e","targets":5}],"order":[],"autoWidth":false,"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
-<h3 class="anchored">Table version4</h3>
-<div class="datatables html-widget html-fill-item" id="htmlwidget-e166b3f82931c6d4133c" style="width:100%;height:auto;"></div>
-<script type="application/json" data-for="htmlwidget-e166b3f82931c6d4133c">{"x":{"filter":"none","vertical":false,"data":[["1","2","3","4","5"],[2,2,2,0,0],[2,2,0,2,1],[0,2,2,2,0],[0,0,0,0,0],[0,0,2,0,1]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>a<\/th>\n      <th>b<\/th>\n      <th>c<\/th>\n      <th>d<\/th>\n      <th>e<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"columnDefs":[{"className":"dt-right","targets":[1,2,3,4,5]},{"orderable":false,"targets":0},{"name":" ","targets":0},{"name":"a","targets":1},{"name":"b","targets":2},{"name":"c","targets":3},{"name":"d","targets":4},{"name":"e","targets":5}],"order":[],"autoWidth":false,"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
-<h3 class="anchored">Table version5</h3>
-<div class="datatables html-widget html-fill-item" id="htmlwidget-59312b27604fc818269f" style="width:100%;height:auto;"></div>
-<script type="application/json" data-for="htmlwidget-59312b27604fc818269f">{"x":{"filter":"none","vertical":false,"data":[["1","2","3","4","5"],[2,2,2,0,0],[2,2,0,2,2],[0,2,2,2,0],[0,0,0,0,0],[0,0,2,0,2]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>a<\/th>\n      <th>b<\/th>\n      <th>c<\/th>\n      <th>d<\/th>\n      <th>e<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"columnDefs":[{"className":"dt-right","targets":[1,2,3,4,5]},{"orderable":false,"targets":0},{"name":" ","targets":0},{"name":"a","targets":1},{"name":"b","targets":2},{"name":"c","targets":3},{"name":"d","targets":4},{"name":"e","targets":5}],"order":[],"autoWidth":false,"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
-</div>
-</div>
+<p>first article ._. cause this was the highlight of my day</p>
+<p>how to perform functional enrichment analysis?</p>
+<p>As I’m writing, I never performed functional enrichment analysis on single cell data before. However the concept should be the same with bulk data! I’m going to walk you through the steps and the tools I used in analyzing single cell data.</p>
+<p>functional enrichment analysis is a bioinformatics procedure that aims to identify the biological implications in a list of genes, usually being DEGs. In simply words (becuase why not), after generating large tables of DEGs, we want to know and understand in which biological pathways these genes are involved. There are several statistical methods that can be used to associate the most enriched biological pathways in the input gene list.</p>
+<p>TODO: tolk abt the different tools topGO, clusterPro … (this is an opportunity to read about them in more details)</p>
+<p>TODO: visualization, potentially using ggplot, genetonic, and maybe explore something else??</p>
+<p>TODO: highlight: by using genetonic you get the z score: which corresponds to</p>
+<p>TODO: maybe find an example of public data, and hopefully try to replicate the findings of the orignial authors, try add my personal touch, like i will be generating different plots using my own perspective, but eventually leading to the same conclusion. this is an opportunity to exploit my brain both as a biologist and a bioinformatician 😈. after all the goal of this is to teach bioinformatics “as bioinformatician” but from the perspective of a biologist</p>
 
 
 
