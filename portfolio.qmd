@@ -33,7 +33,7 @@ format: html
 
   - [GitHub Repo](https://github.com/omicscodeathon/exvar)
 
-  - Publication: Submitted to Scientific Reports, under revision
+  - [Publication](https://www.nature.com/articles/s41598-025-93067-5)
 
 ### Workshops
 
@@ -41,7 +41,7 @@ format: html
 
   - [Student Conference on Biological Sciences 2024 (SCBS2024)](https://sites.google.com/fshn.edu.al/scbs-2024/home)
 
-  - [GitHub Repo](https://github.com/NajlaAbassi/iSEEfierWorkshopSCBS2024)
+  - [Material](https://github.com/NajlaAbassi/iSEEfierWorkshopSCBS2024)
   
 ### Conferences
 
