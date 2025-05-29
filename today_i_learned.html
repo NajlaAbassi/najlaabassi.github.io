@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Packages – Najla Abassi</title>
+<title>Today, I Learned … – Najla Abassi</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -66,7 +68,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.scss">
 </head>
@@ -101,11 +161,11 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Portfolio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./software.html" aria-current="page"> 
+    <a class="nav-link" href="./software.html"> 
 <span class="menu-text">Software</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./today_i_learned.html"> 
+    <a class="nav-link active" href="./today_i_learned.html" aria-current="page"> 
 <span class="menu-text">TIL</span></a>
   </li>  
   <li class="nav-item">
@@ -129,7 +189,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Packages</h1>
+<h1 class="title">Today, I Learned …</h1>
 </div>
 
 
@@ -146,33 +206,42 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>A list of tools and packages that I have contributed to, either as a developer/maintainer or a occasional contributor:</p>
-<ul>
-<li><p><a href="https://github.com/imbeimainz/DeeDeeExperiment"><em>DeeDeeExperiment</em></a></p>
-<ul>
-<li>An S4 class built on SummarizedExperiment for integrating and managing omics data analysis results - <em>WIP</em></li>
-</ul></li>
-<li><p><a href="https://www.bioconductor.org/packages/iSEEfier"><em>iSEEfier</em></a></p>
-<ul>
-<li>An R package for streamlining the creation of initial states for starting an iSEE instance</li>
-</ul></li>
-<li><p><a href="https://github.com/omicscodeathon/neurovar"><em>NeuroVar</em></a></p>
-<ul>
-<li>An open-source tool for the visualization of gene expression and variation data for biomarkers of neurological diseases</li>
-</ul></li>
-<li><p><a href="https://github.com/omicscodeathon/exvar"><em>exvar</em></a></p>
-<ul>
-<li>An R Package for Gene Expression and Genetic Variation Data Analysis and Visualization</li>
-</ul></li>
-<li><p><a href="https://github.com/NajlaAbassi/ROHStats"><em>ROHStats</em></a></p>
-<ul>
-<li>An R package for fast and easy ROH statistics and visualization from PLINK outputs</li>
-</ul></li>
-</ul>
 
 
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1748469600000" data-listing-file-modified-sort="1748549060999" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="580">
+<div class="thumbnail">
+<p><a href="./TIL/TIL_entry1.html" class="no-external"></a></p><a href="./TIL/TIL_entry1.html" class="no-external">
+<p class="card-img-top"><img src="img/study_girl_tn_banner.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./TIL/TIL_entry1.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./TIL/TIL_entry1.html" class="no-external">TIL: Metadata isn’t just for the data</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./TIL/TIL_entry1.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./TIL/TIL_entry1.html" class="no-external">Honestly I didn’t learn this today, it’s something I’ve always had in the back of my head. But I just wanted to emphasize on how important it is to <strong>document</strong> everything…<em></em><em></em><em></em></a>
+</div>
+</div>
+<div class="metadata">
+<a href="./TIL/TIL_entry1.html" class="no-external">
+<div class="listing-date">
+May 29, 2025
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
