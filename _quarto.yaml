@@ -5,12 +5,6 @@ project:
 website:
   site-url: "https://najlaabassi.github.io"
   page-footer: "© 2025 Najla Abassi | Built with Quarto"
-  announcement:
-    icon: info-circle
-    dismissable: true
-    content: "Pardon the dust! This website is currently being updated 🚧"
-    type: danger
-    position: above-navbar
   title: "Najla Abassi"
   navbar:
     page-layout: none
@@ -23,10 +17,11 @@ website:
         href: portfolio.qmd
       - text: "Software"
         href: software.qmd
-      - text: "Learning Logs"
-        href: learning_logs.qmd
+      - text: "TIL"
+        href: today_i_learned.qmd
       - text: "Find Me Online"
         href: contact.qmd
+  back-to-top-navigation: true
 format:
   html:
     theme:

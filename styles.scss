@@ -42,12 +42,7 @@ h3 {
 
 /* navbar customization */
 .navbar {
-  background-color: #4B4376 !important;
-  color: white !important;
-}
-
-/* cutomize navbar font color */
-.navbar a, .navbar-nav .nav-link {
+  background-color: #6d64a1 !important;
   color: white !important;
 }
 
@@ -63,21 +58,3 @@ a:hover {
   color: darken(#a744ae, 10%);
   text-decoration: underline;
 }
-
-/* Banner Container Styling */
-.banner-container {
-    background-image: url(img/banner.jpeg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: 80px
-}
-
-
-/* Ensure the inner image is properly styled */
-.banner-container img {
-    display: block;
-    margin: auto;
-    width: 100%;
-    max-width: 300px;
-}
-
