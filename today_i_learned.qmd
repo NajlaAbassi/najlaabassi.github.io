@@ -4,7 +4,9 @@ listing:
   contents: TIL
   sort: "date_desc"
 type: table
-format: html
+format:
+  html:
+    css: styles.css
 
 ---
 
