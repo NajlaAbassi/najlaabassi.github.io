@@ -59,8 +59,9 @@ So, no, it doesn’t take much time to just document on the fly. And trust me: "
 
 * A cool idea I learned from my supervisor: create a **README** file for each project. Include all the relevant info, e.g. where the raw data is stored, how to run the scripts/notebooks, and what decisions were made.
 
+In the end, it’s not the longest list of tips, but I hope it’s enough to spark some inspiration and help you find what works best for you 😊
 
-This is my first blog entry, using `Quarto`, and nothing is perfect the first time XD.
+This is my first blog entry using `Quarto`, and nothing is perfect the first time XD.
 What matters is taking action 🤗
 
 Stay safe, and keep documenting ❤️
