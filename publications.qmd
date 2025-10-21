@@ -1,26 +1,48 @@
 ---
 title: "Publications"
 format: html
+page-layout: full
 ---
 
 [Google scholar](https://scholar.google.com/citations?user=XY4UafAAAAAJ&hl=en)
 
+## Research Papers
+
 ### 2025
 
-- Efficient and easy gene expression and genetic variation data analysis and visualization using exvar ([doi:10.1038/s41598-025-93067-5](https://doi.org/10.1038/s41598-025-93067-5))
+- Aribi, H. B., Dixon, I., **Abassi, N.**, & Awe, O. I. (2025). Efficient and easy gene expression and genetic variation data analysis and visualization using exvar. Scientific Reports, 15(1). ([doi](https://doi.org/10.1038/s41598-025-93067-5))
 
-- Ptprz Signaling, Tubule-and Macrophage-Mediated Kidney Injury, and Subsequent CKD ([doi:10.1681/ASN.0000000640](https://doi.org/10.1681/ASN.0000000640))
+- Weinmann-Menke, J., Gonzalez-Sanchez, H. M., Iwata, Y., Meineck, M., **Abassi, N.**, Marini, F., Granados-Contreras, F., Takakura, A., Noda, M., & Kelley, V. R. (2025). PTPRZ signaling, Tubule- and Macrophage-Mediated Kidney Injury, and subsequent CKD. Journal of the American Society of Nephrology. ([doi](https://doi.org/10.1681/ASN.0000000640))
 
 ### 2024
 
-- Deep Cellular and Molecular Characterization Reveal a Distinct Phenotype and Metabolic Signature of Human Senescent CD8+ T Cells: Implication for Cancer Cellular Therapy ([doi: 10.1182/blood-2024-194719](https://doi.org/10.1182/blood-2024-194719))
+- Aribi, H. B., **Abassi, N.**, & Awe, O. I. (2024). NeuroVar: an open-source tool for the visualization of gene expression and variation data for biomarkers of neurological diseases. Gigabyte, 2024. ([doi](https://doi.org/10.46471/gigabyte.143))
 
-- NeuroVar: an open-source tool for gene expression and variation data visualization for biomarkers of neurological diseases ([doi: 10.46471/gigabyte.143](https://doi.org/10.46471/gigabyte.143))
-
-- Insights, opportunities and challenges provided by large cell atlases ([doi: 10.48550/arXiv.2408.06563](https://doi.org/10.48550/arXiv.2408.06563))
-
-- Ethnic and functional differentiation of copy number polymorphisms in Tunisian and HapMap population unveils insights on genome organizational plasticity ([doi: 10.1038/s41598-024-54749-8](https://doi.org/10.1038/s41598-024-54749-8))
+- Romdhane, L., Kefi, S., Mezzi, N., **Abassi, N.**, Jmel, H., Romdhane, S., Shan, J., Chouchane, L., & Abdelhak, S. (2024). Ethnic and functional differentiation of copy number polymorphisms in Tunisian and HapMap population unveils insights on genome organizational plasticity. Scientific Reports, 14(1). ([doi](https://doi.org/10.1038/s41598-024-54749-8))
 
 ### 2023
 
-- Consanguinty and its impact on health and genome dynamic: An example from Tunisia ([doi:10.62438/tunismed.v102i5.4787](https://doi.org/10.62438/tunismed.v102i5.4787))
+- Mezzi, N., **Abassi, N.**, Fatnassi, F., Abdelhak, S., & Romdhane, L. (2024). Consanguinité et son impact sur la santé et la dynamique du génome : Un exemple de la Tunisie. La Tunisie Médicale, 102(5). ([doi](https://doi.org/10.62438/tunismed.v102i5.4787))
+
+
+## Preprints & Abstracts
+
+### 2025
+
+- Damara, A., **Abassi, N.**, Mihoc, D., Nastaranpour, M., Kraft, P., Sarkar, T., Deppermann, C., Mayer, J. U., Grabbe, S., Delacher, M., Marini, F., & Shahneh, F. (2025). KDM6B inhibition modulates monocyte activation and alleviates IMQ-psoriasis skin inflammation. bioRxiv (Cold Spring Harbor Laboratory). ([doi](https://doi.org/10.1101/2025.10.13.682023))
+
+- Nedwed, A., Ustjanzew, A., **Abassi, N.**, Dammer, L., Schulze, A., Helbich, S., Delacher, M., Strauch, K., & Marini, F. (2025). GEDI: Simplifying gene set distances for Enhanced Omics Interpretation in R/Bioconductor. bioRxiv (Cold Spring Harbor Laboratory). ([doi](https://doi.org/10.1101/2025.10.10.681592))
+
+
+### 2024
+
+- Legscha, K. J. J., Märker, L. P., **Abassi, N.**, Yilmaz, A., Woelfel, C., Ferreira, E. A., Nedwed, A., Helbich, S. S., Delacher, M., Marini, F., Porubsky, S., Theobald, M., & Echchannaoui, H. (2024b). Deep cellular and molecular characterization reveal a distinct phenotype and metabolic signature of human senescent CD8+ T cells: Implication for cancer cellular therapy. Blood, 144(Supplement 1), 2536. ([doi](https://doi.org/10.1182/blood-2024-194719))
+
+- Hemberg, M., Marini, F., Ghazanfar, S., Ajami, A. A., **Abassi, N.**, Anchang, B., Benayoun, B. A., Cao, Y., Chen, K., Cuesta-Astroz, Y., DeBruine, Z., Dendrou, C. A., Iwijn, D. V., Imkeller, K., Korsunsky, I., Lederer, A. R., Meysman, P., Miller, C., Mullan, K., . . . Jelic, I. (2024). Insights, opportunities and challenges provided by large cell atlases. arXiv (Cornell University). ([doi](https://doi.org/10.48550/arxiv.2408.06563))
+
+
+## Talks & presentations
+
+### 2025
+
+- **Abassi, N.**, Rothörl, L., & Marini, F. (2025, September 17). One class to rule them all: DeeDeeExperiment for managing and exploring omics analysis results. European Bioconductor Conference 2025 (EuroBioC2025), Barcelona Biomedical Research Park (PRBB), Barcelona, Spain. Zenodo. ([doi](https://doi.org/10.5281/zenodo.17184376))

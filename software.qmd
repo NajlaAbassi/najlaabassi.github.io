@@ -1,26 +1,15 @@
 ---
 title: "Packages"
 format: html
+page-layout: full
 ---
 
 A list of tools and packages that I have contributed to, either as a developer/maintainer or a occasional contributor:
 
--   [*DeeDeeExperiment*](https://github.com/imbeimainz/DeeDeeExperiment)
-
-    - An S4 class built on SummarizedExperiment for integrating and managing omics data analysis results - *WIP*
-
--   [*iSEEfier*](https://www.bioconductor.org/packages/iSEEfier)
-
-    -   An R package for streamlining the creation of initial states for starting an iSEE instance
-
--   [*NeuroVar*](https://github.com/omicscodeathon/neurovar)
-
-    -   An open-source tool for the visualization of gene expression and variation data for biomarkers of neurological diseases
-
--   [*exvar*](https://github.com/omicscodeathon/exvar)
-
-    -   An R Package for Gene Expression and Genetic Variation Data Analysis and Visualization
-    
--   [*ROHStats*](https://github.com/NajlaAbassi/ROHStats)
-
-    - An R package for fast and easy ROH statistics and visualization from PLINK outputs
+| Package | Description | Link |
+|:---------|:-------------|:------|
+| **DeeDeeExperiment** | An S4 class built on SummarizedExperiment for integrating and managing omics data analysis results | available on [Bioconductor](https://www.bioconductor.org/packages/DeeDeeExperiment) |
+|**iSEEfier**| An R package for streamlining the creation of initial states for starting an iSEE instance | available on [Bioconductor](https://www.bioconductor.org/packages/iSEEfier) |
+|**NeuroVar**| An open-source tool for the visualization of gene expression and variation data for biomarkers of neurological diseases | available on [GitHub](https://github.com/omicscodeathon/neurovar) |
+|**exvar**| An R Package for Gene Expression and Genetic Variation Data Analysis and Visualization | available on [GitHub](https://github.com/omicscodeathon/exvar) |
+|**ROHStats**| An R package for fast and easy ROH statistics and visualization from PLINK outputs | available on [GitHub](https://github.com/NajlaAbassi/ROHStats)

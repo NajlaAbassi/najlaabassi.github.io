@@ -1,5 +1,5 @@
 ---
-title: "Today, I Learned ..."
+title: "Blog"
 listing:
   contents: TIL
   sort: "date_desc"

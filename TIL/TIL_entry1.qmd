@@ -1,8 +1,9 @@
 ---
-title: "TIL: Metadata isn't just for the data"
+title: "Metadata isn't just for the data"
 date: "2025-05-29"
 date-format: "MMM D, YYYY"
 format: html
+page-layout: full
 ---
 
 <center>

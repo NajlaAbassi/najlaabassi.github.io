@@ -1,74 +1,265 @@
 /*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap');
 
-/* font customization */
-$font-family-sans-serif: 'Aptos', sans-serif !default;
-$headings-font-family: 'Aptos', sans-serif !default;
 
-/* customize background colors */
-$body-bg: #fff5f5  !default;
-$body-color: #333 !default;
+// Typography
+$mainFont: "Atkinson Hyperlegible", "Inter", "Source Sans Pro", "Open Sans", system-ui, sans-serif !default;
+$headingFont: "Atkinson Hyperlegible", "Inter", "Source Sans Pro", "Open Sans", system-ui, sans-serif !default;
 
-/* heading customization */
+// Color palette
+$body-bg: #faf7f5 !default;
+$body-color: #2f2f2f !default;
+$headings-color: #ff8ba7 !default;
+$link-color: #c94868 !default;
+$link-hover-color: darken($link-color, 10%) !default;
+
+// Headings
 $h1-font-size: 2.2rem !default;
 $h2-font-size: 1.8rem !default;
-$h3-font-size: 1.6rem !default;
-$headings-color: #AE445A !default;
-$headings-font-weight: 600 !default;
+$h3-font-size: 1.5rem !default;
+$headings-font-weight: 500 !default;
+
 
 /*-- scss:rules --*/
 
+
 /* body styling */
 body {
-  font-family: $font-family-sans-serif;
+  font-family: $mainFont;
   background-color: $body-bg;
   color: $body-color;
+  line-height: 1.7;
 }
 
-/* custom styles for titles */
-h1 {
-  font-size: $h1-font-size;
+
+/* headings */
+h1, h2, h3 {
+  font-family: $headingFont;
+  font-weight: $headings-font-weight;
   color: $headings-color;
+  letter-spacing: 0.5px;
+  margin-top: 1.8rem;
+  margin-bottom: 0.8rem;
 }
 
-h2 {
-  font-size: $h2-font-size;
-  color: darken($headings-color, 10%);
-}
+h1 { font-size: $h1-font-size; }
+h2 { font-size: $h2-font-size; }
+h3 { font-size: $h3-font-size; }
 
-h3 {
-  font-size: $h3-font-size;
-  color: lighten($headings-color, 10%);
-}
 
-/* navbar customization */
+/* navbar */
 .navbar {
-  background-color: #6d64a1 !important;
+  background-color: #ff8ba7 !important;
   color: white !important;
+  font-weight: 400;
 }
 
-
-/* hperlink styling */
+/* hyperlinks */
 a {
-  color: #d95d77;
+  color: $link-color;
   text-decoration: none;
-  font-weight: bold;
+  font-weight: 500;
+  transition: color 0.2s ease, text-decoration 0.2s ease;
 }
 
 a:hover {
-  color: darken(#a744ae, 10%);
+  color: $link-hover-color;
   text-decoration: underline;
 }
 
-
+/* listing titles */
 .listing-title a {
-  color: #4e458c !important;
-  text-decoration: underline;
-  font-weight: 600;
+  color: $headings-color !important;
+  text-decoration: none;
+  font-weight: 500;
 }
-
 
 .listing-title a:hover {
-  color: #5eebb0 !important;
+  color: $link-hover-color !important;
   text-decoration: underline;
 }
+
+/* custom portfolio cards based on Quarto's ::: blocks */
+.portfolio-card {
+  background: #fff;
+  border: 1px solid rgba(99, 89, 133, 0.2);
+  border-radius: 1rem;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+}
+
+.portfolio-card:hover {
+  transform: translateY(-4px);
+  border-color: #ff8ba7;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+}
+
+
+.portfolio-card p {
+  color: #333;
+  line-height: 1.6;
+  font-size: 0.95rem;
+}
+
+.portfolio-card a {
+  color: #ff8ba7;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.portfolio-card a:hover {
+  color: #c94868;
+  text-decoration: underline;
+}
+
+.portfolio-card.research {
+  border-left: 4px solid #635985;
+}
+
+.portfolio-card.codeathon {
+  border-left: 4px solid #f57676;
+}
+
+.portfolio-card.workshop {
+  border-left: 4px solid #53d49e;
+}
+
+.portfolio-card.education {
+  border-left: 4px solid #4a7d9e;
+}
+
+.portfolio-card.conference {
+  border-left: 4px solid #b791e6;
+}
+
+.portfolio-card.interest {
+  border-left: 4px solid #f9b24e;
+}
+
+/* hover glow to match the accent color */
+.portfolio-card.research:hover   { box-shadow: 0 8px 25px rgba(99, 89, 133, 0.15); }
+.portfolio-card.codeathon:hover  { box-shadow: 0 8px 25px rgba(255, 139, 167, 0.15); }
+.portfolio-card.workshop:hover   { box-shadow: 0 8px 25px rgba(94, 235, 176, 0.15); }
+.portfolio-card.education:hover  { box-shadow: 0 8px 25px rgba(74, 125, 158, 0.15); }
+.portfolio-card.conference:hover { box-shadow: 0 8px 25px rgba(207, 168, 255, 0.15); }
+.portfolio-card.interest:hover   { box-shadow: 0 8px 25px rgba(249, 178, 78, 0.15); }
+
+/* color-match titles to accent border */
+.portfolio-card.research h3,
+.portfolio-card.research strong {
+  color: #635985;
+}
+
+.portfolio-card.codeathon h3,
+.portfolio-card.codeathon strong {
+  color: #f57676;
+}
+
+.portfolio-card.workshop h3,
+.portfolio-card.workshop strong {
+  color: #53d49e;
+}
+
+.portfolio-card.education h3,
+.portfolio-card.education strong {
+  color: #4a7d9e;
+}
+
+.portfolio-card.conference h3,
+.portfolio-card.conference strong {
+  color: #b791e6;
+}
+
+.portfolio-card.interest h3,
+.portfolio-card.interest strong {
+  color: #f9b24e;
+}
+
+/* lighten the title slightly on hover for dynamism */
+.portfolio-card:hover h3,
+.portfolio-card:hover strong {
+  filter: brightness(1.15);
+  transition: filter 0.25s ease;
+}
+
+/* inactive tabs */
+.nav-tabs .nav-link {
+  color: #635985;
+  background-color: transparent;
+  border: none;
+  transition: all 0.2s ease;
+}
+
+.nav-tabs .nav-link:hover {
+  color: #ff8ba7;
+  background-color: rgba(255, 139, 167, 0.1);
+}
+
+/* active tab */
+.nav-tabs .nav-link.active {
+  background-color: #ff8ba7;
+  color: #fff !important;
+  border: none;
+  border-radius: 0.5rem 0.5rem 0 0;
+  box-shadow: 0 2px 6px rgba(255, 139, 167, 0.25);
+}
+
+/* give the whole tab bar a clean underline */
+.nav-tabs {
+  border-bottom: 2px solid rgba(99, 89, 133, 0.1);
+}
+
+/* ===== nice table styling ===== */
+
+table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 2rem 0;
+  background-color: #fff;
+  border-radius: 0.75rem;
+  overflow: hidden;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+}
+
+thead {
+  background-color: #ff8ba7;
+  color: #fff;
+  text-align: left;
+}
+
+th, td {
+  padding: 0.9rem 1rem;
+  vertical-align: top;
+}
+
+tbody tr:nth-child(even) {
+  background-color: rgba(99, 89, 133, 0.05);
+}
+
+tbody tr:hover {
+  background-color: rgba(255, 139, 167, 0.1);
+}
+
+th:first-child {
+  border-top-left-radius: 0.75rem;
+}
+th:last-child {
+  border-top-right-radius: 0.75rem;
+}
+
+td a {
+  color: #c94868;
+  font-weight: 500;
+  text-decoration: none;
+}
+td a:hover {
+  color: #ff8ba7;
+  text-decoration: underline;
+}
+
+
 

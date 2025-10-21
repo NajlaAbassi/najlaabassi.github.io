@@ -1,27 +1,36 @@
 ---
 title: "Portfolio"
 format: html
+page-layout: full
 ---
 
-### Research
+::: {.panel-tabset}
+
+### Research Projects
+
+::: {.portfolio-card .research}
 
 - **Research Associate, PhD student**, Department of Genomic Statistics and Bioinformatics, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center Mainz, Mainz, Germany (since 10.2023)
 
-  - *SFB1292 Project: Investigating the tissue repair program of Treg cells as an immune evasion strategy in tumor and chronic infections*
+  - **SFB1292 Project**: Investigating the tissue repair program of Treg cells as an immune evasion strategy in tumor and chronic infections
 
 - **Reseach Assistant**, Laboratory of Biomedical Genomics and Oncogenetics, Institut Pasteur de Tunis, Tunis, Tunisia (04.2022-09.2023)
 
-  - *Project: Estimation of homozygosity in the Tunisian population from high throughput genotyping data*
+  - **Project**: Estimation of homozygosity in the Tunisian population from high throughput genotyping data
 
 - **Research Assistant**, Laboratory of Anatomy and Pathological Cytology, Salah Azaiez Institute of Oncology, Tunis, Tunisia (06.2020-03.2021)
 
-  - *Project: Study of PD-L1 expression in anaplastic large cell lymphoma ALK (-)*
+  - **Project**: Study of PD-L1 expression in anaplastic large cell lymphoma ALK (-)
+
+:::
 
 ### Codeathons
 
+::: {.portfolio-card .codeathon}
+
 - **ASBCB Omics Codeathon April 2023**, African Society for Bioinformatics and Computational Biology
 
-  - *Project: Development of an open-source tool for the visualization of gene expression and variation data for biomarkers of neurological diseases*
+  - **Project**: Development of an open-source tool for the visualization of gene expression and variation data for biomarkers of neurological diseases
 
   - [GitHub Repo](https://github.com/omicscodeathon/neurovar)
 
@@ -29,13 +38,17 @@ format: html
 
 - **ASBCB Omics Codeathon Oct 2022**, African Society for Bioinformatics and Computational Biology
 
-  - *Project: Development of an R package for data analysis and visualization*
+  - **Project**: Development of an R package for data analysis and visualization
 
   - [GitHub Repo](https://github.com/omicscodeathon/exvar)
 
   - [Publication](https://www.nature.com/articles/s41598-025-93067-5)
+  
+:::
 
 ### Workshops
+
+::: {.portfolio-card .workshop}
 
 - **Streamlining Omics Data Visualization with iSEE and iSEEfier**
 
@@ -43,13 +56,25 @@ format: html
 
   - [Material](https://github.com/NajlaAbassi/iSEEfierWorkshopSCBS2024)
   
+:::
+
 ### Conferences
+
+::: {.portfolio-card .conference}
+
+- [EuroBioC2025](https://eurobioc2025.bioconductor.org/)
+
+  - **Short Talk** : [One class to rule them all: DeeDeeExperiment for managing and exploring omics analysis results](https://doi.org/10.5281/zenodo.17184376)
 
 - [EuroBioC2024](https://eurobioc2024.bioconductor.org/)
 
-  - **Poster**: [*iSEEfier: Starting to use iSEE became even easier*](https://eurobioc2024.bioconductor.org/abstracts/paper26/)
+  - **Poster**: [iSEEfier: Starting to use iSEE became even easier](https://eurobioc2024.bioconductor.org/abstracts/paper26/)
+
+:::
 
 ### Education
+
+::: {.portfolio-card .education}
 
 **Master of Science in Bioinformatics**, University of Manouba, Tunisia (2021-2022)
 
@@ -57,9 +82,16 @@ format: html
 
 **Bachelor of Science in Biology**, University of Tunis El Manar, Tunisia (2015-2018)
 
+:::
+
 ### Interests
 
-- Professional illustrator and Digital artist
+::: {.portfolio-card .interest}
+
+- **Professional illustrator** and **Digital artist**
 
   - Art Gallery: [ {{<fa brands instagram>}}  Instagram](https://www.instagram.com/guigadraws)
 
+:::
+
+:::

@@ -17,13 +17,16 @@ website:
         href: portfolio.qmd
       - text: "Software"
         href: software.qmd
-      - text: "TIL"
+      - text: "Blog"
         href: today_i_learned.qmd
-      - text: "Find Me Online"
-        href: contact.qmd
   back-to-top-navigation: true
 format:
   html:
     theme:
       light: styles.scss
     css: styles.scss
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    toc_smooth_scroll: true
+    toc_highlight: true
