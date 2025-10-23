@@ -72,26 +72,4 @@ page-layout: full
 
 :::
 
-### Education
-
-::: {.portfolio-card .education}
-
-**Master of Science in Bioinformatics**, University of Manouba, Tunisia (2021-2022)
-
-**Master of Science in Biochemistry**, University of Tunis El Manar, Tunisia (2018-2021)
-
-**Bachelor of Science in Biology**, University of Tunis El Manar, Tunisia (2015-2018)
-
-:::
-
-### Interests
-
-::: {.portfolio-card .interest}
-
-- **Professional illustrator** and **Digital artist**
-
-  - Art Gallery: [ {{<fa brands instagram>}}  Instagram](https://www.instagram.com/guigadraws)
-
-:::
-
 :::

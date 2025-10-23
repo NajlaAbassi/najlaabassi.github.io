@@ -32,5 +32,20 @@ page-layout: full
 Hi I'm Najla 👋 
 I'm a Research Associate and PhD candidate at [Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI)](https://www.unimedizin-mainz.de/imbei/), [University Medical Center Mainz](https://www.unimedizin-mainz.de/), Germany, with a background in biology and a focus on bioinformatics. My research centers on analyzing omics data, particularly transcriptomics, and developing R packages to help biologists in uncovering biological insights. Outside of work, I’m a self-taught digital artist who loves creating colorful illustrations and finding inspiration in nature.
 
+### Education
+
+- **Master of Science in Bioinformatics**, University of Manouba, Tunisia (2021-2022)
+
+- **Master of Science in Biochemistry**, University of Tunis El Manar, Tunisia (2018-2021)
+
+- **Bachelor of Science in Biology**, University of Tunis El Manar, Tunisia (2015-2018)
+
+### Interests
+
+- **Professional illustrator** and **Digital artist**
+
+  - Art Gallery: [ {{<fa brands instagram>}}  Instagram](https://www.instagram.com/guigadraws)
+
+
 
 :::
