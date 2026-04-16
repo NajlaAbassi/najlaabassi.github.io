@@ -16,7 +16,7 @@ page-layout: full
 
 * Nedwed, A. S., Ustjanzew, A., **Abassi, N.**, Dammer, L., Schulze, A., Helbich, S. S., Delacher, M., Strauch, K., & Marini, F. (2025). GeDi: simplifying gene set distances for enhanced omics interpretation in R/Bioconductor. BMC Bioinformatics, 27(1), 14. ([doi](https://doi.org/10.1186/s12859-025-06335-6))
 
-* Hemberg, M., Marini, F., Ghazanfar, S., Ajami, A. A., **Abassi, N.**, Anchang, B., Benayoun, B. A., Cao, Y., Chen, K., Cuesta-Astroz, Y., DeBruine, Z., Dendrou, C. A., Iwijn, D. V., Imkeller, K., Korsunsky, I., Lederer, A. R., Meysman, P., Miller, C., Mullan, K., . . . Jelic, I. (2024). Insights, opportunities and challenges provided by large cell atlases. arXiv (Cornell University). ([doi](https://doi.org/10.1186/s13059-025-03771-8))
+* Hemberg, M., Marini, F., Ghazanfar, S., Ajami, A. A., **Abassi, N.**, Anchang, B., Benayoun, B. A., Cao, Y., Chen, K., Cuesta-Astroz, Y., DeBruine, Z., Dendrou, C. A., De Vlaminck, I., Imkeller, K., Korsunsky, I., Lederer, A. R., Li, J. J., Meysman, P., Miller, C. L., . . . Jelic, I. (2025). Insights, opportunities, and challenges provided by large cell atlases. Genome Biology, 26(1), 358. ([doi](https://doi.org/10.1186/s13059-025-03771-8))
 
 * Aribi, H. B., Dixon, I., **Abassi, N.**, & Awe, O. I. (2025). Efficient and easy gene expression and genetic variation data analysis and visualization using exvar. Scientific Reports, 15(1). ([doi](https://doi.org/10.1038/s41598-025-93067-5))
 
