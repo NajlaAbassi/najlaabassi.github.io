@@ -1,14 +1,9 @@
 ---
 title: "Portfolio"
 format: html
-page-layout: full
 ---
 
-::: {.panel-tabset}
-
-### Research Projects
-
-::: {.portfolio-card .research}
+## Research Projects
 
 - **Research Associate, PhD student**, Department of Genomic Statistics and Bioinformatics, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center Mainz, Mainz, Germany (since 10.2023)
 
@@ -22,11 +17,8 @@ page-layout: full
 
   - **Project**: Study of PD-L1 expression in anaplastic large cell lymphoma ALK (-)
 
-:::
 
-### Codeathons
-
-::: {.portfolio-card .codeathon}
+## Codeathons
 
 - **ASBCB Omics Codeathon April 2023**, African Society for Bioinformatics and Computational Biology
 
@@ -43,24 +35,20 @@ page-layout: full
   - [GitHub Repo](https://github.com/omicscodeathon/exvar)
 
   - [Publication](https://www.nature.com/articles/s41598-025-93067-5)
-  
-:::
 
-### Workshops
-
-::: {.portfolio-card .workshop}
+## Workshops
 
 - **Streamlining Omics Data Visualization with iSEE and iSEEfier**
 
   - [Student Conference on Biological Sciences 2024 (SCBS2024)](https://sites.google.com/fshn.edu.al/scbs-2024/home)
 
   - [Material](https://github.com/NajlaAbassi/iSEEfierWorkshopSCBS2024)
-  
-:::
 
-### Conferences
+## Conference Contributions
 
-::: {.portfolio-card .conference}
+- [EuroBioC2026](https://eurobioc2026.bioconductor.org/)
+
+  - **Poster** : [EMMA: Enrichment Methods Matter for achieving fully Reproducible Pathway Analysis](https://doi.org/10.5281/zenodo.20446276)
 
 - [EuroBioC2025](https://eurobioc2025.bioconductor.org/)
 
@@ -68,8 +56,14 @@ page-layout: full
 
 - [EuroBioC2024](https://eurobioc2024.bioconductor.org/)
 
-  - **Poster**: [iSEEfier: Starting to use iSEE became even easier](https://eurobioc2024.bioconductor.org/abstracts/paper26/)
+  - **Poster** : [iSEEfier: Starting to use iSEE became even easier](https://eurobioc2024.bioconductor.org/abstracts/paper26/)
 
-:::
+## Scientific Community Activities
 
-:::
+- **Bioconductor Package Reviewer**
+
+- **Scientific program committee**, European Bioconductor Conference (EuroBioC)
+
+
+
+
