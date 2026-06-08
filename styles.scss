@@ -7,10 +7,10 @@ $mainFont: "Atkinson Hyperlegible", "Inter", "Source Sans Pro", "Open Sans", sys
 $headingFont: "Atkinson Hyperlegible", "Inter", "Source Sans Pro", "Open Sans", system-ui, sans-serif !default;
 
 // Color palette
-$body-bg: #faf7f5 !default;
+$body-bg: #fafcf5 !default;
 $body-color: #2f2f2f !default;
-$headings-color: #ff8ba7 !default;
-$link-color: #c94868 !default;
+$headings-color: #853953 !default;
+$link-color: #612D53 !default;
 $link-hover-color: darken($link-color, 10%) !default;
 
 // Headings
@@ -49,7 +49,7 @@ h3 { font-size: $h3-font-size; }
 
 /* navbar */
 .navbar {
-  background-color: #ff8ba7 !important;
+  background-color: #612D53 !important;
   color: white !important;
   font-weight: 400;
 }
@@ -79,138 +79,6 @@ a:hover {
   text-decoration: underline;
 }
 
-/* custom portfolio cards based on Quarto's ::: blocks */
-.portfolio-card {
-  background: #fff;
-  border: 1px solid rgba(99, 89, 133, 0.2);
-  border-radius: 1rem;
-  padding: 1.5rem;
-  margin-bottom: 1.5rem;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
-  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
-}
-
-.portfolio-card:hover {
-  transform: translateY(-4px);
-  border-color: #ff8ba7;
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
-}
-
-
-.portfolio-card p {
-  color: #333;
-  line-height: 1.6;
-  font-size: 0.95rem;
-}
-
-.portfolio-card a {
-  color: #ff8ba7;
-  text-decoration: none;
-  font-weight: 500;
-  transition: color 0.2s ease;
-}
-
-.portfolio-card a:hover {
-  color: #c94868;
-  text-decoration: underline;
-}
-
-.portfolio-card.research {
-  border-left: 4px solid #635985;
-}
-
-.portfolio-card.codeathon {
-  border-left: 4px solid #f57676;
-}
-
-.portfolio-card.workshop {
-  border-left: 4px solid #53d49e;
-}
-
-.portfolio-card.education {
-  border-left: 4px solid #4a7d9e;
-}
-
-.portfolio-card.conference {
-  border-left: 4px solid #b791e6;
-}
-
-.portfolio-card.interest {
-  border-left: 4px solid #f9b24e;
-}
-
-/* hover glow to match the accent color */
-.portfolio-card.research:hover   { box-shadow: 0 8px 25px rgba(99, 89, 133, 0.15); }
-.portfolio-card.codeathon:hover  { box-shadow: 0 8px 25px rgba(255, 139, 167, 0.15); }
-.portfolio-card.workshop:hover   { box-shadow: 0 8px 25px rgba(94, 235, 176, 0.15); }
-.portfolio-card.education:hover  { box-shadow: 0 8px 25px rgba(74, 125, 158, 0.15); }
-.portfolio-card.conference:hover { box-shadow: 0 8px 25px rgba(207, 168, 255, 0.15); }
-.portfolio-card.interest:hover   { box-shadow: 0 8px 25px rgba(249, 178, 78, 0.15); }
-
-/* color-match titles to accent border */
-.portfolio-card.research h3,
-.portfolio-card.research strong {
-  color: #635985;
-}
-
-.portfolio-card.codeathon h3,
-.portfolio-card.codeathon strong {
-  color: #f57676;
-}
-
-.portfolio-card.workshop h3,
-.portfolio-card.workshop strong {
-  color: #53d49e;
-}
-
-.portfolio-card.education h3,
-.portfolio-card.education strong {
-  color: #4a7d9e;
-}
-
-.portfolio-card.conference h3,
-.portfolio-card.conference strong {
-  color: #b791e6;
-}
-
-.portfolio-card.interest h3,
-.portfolio-card.interest strong {
-  color: #f9b24e;
-}
-
-/* lighten the title slightly on hover for dynamism */
-.portfolio-card:hover h3,
-.portfolio-card:hover strong {
-  filter: brightness(1.15);
-  transition: filter 0.25s ease;
-}
-
-/* inactive tabs */
-.nav-tabs .nav-link {
-  color: #635985;
-  background-color: transparent;
-  border: none;
-  transition: all 0.2s ease;
-}
-
-.nav-tabs .nav-link:hover {
-  color: #ff8ba7;
-  background-color: rgba(255, 139, 167, 0.1);
-}
-
-/* active tab */
-.nav-tabs .nav-link.active {
-  background-color: #ff8ba7;
-  color: #fff !important;
-  border: none;
-  border-radius: 0.5rem 0.5rem 0 0;
-  box-shadow: 0 2px 6px rgba(255, 139, 167, 0.25);
-}
-
-/* give the whole tab bar a clean underline */
-.nav-tabs {
-  border-bottom: 2px solid rgba(99, 89, 133, 0.1);
-}
 
 /* ===== nice table styling ===== */
 
@@ -226,7 +94,7 @@ table {
 }
 
 thead {
-  background-color: #ff8ba7;
+  background-color: #853953;
   color: #fff;
   text-align: left;
 }
@@ -241,7 +109,7 @@ tbody tr:nth-child(even) {
 }
 
 tbody tr:hover {
-  background-color: rgba(255, 139, 167, 0.1);
+  background-color: rgba(133, 57, 83, 0.10);
 }
 
 th:first-child {
@@ -252,12 +120,12 @@ th:last-child {
 }
 
 td a {
-  color: #c94868;
+  color: #612D53;
   font-weight: 500;
   text-decoration: none;
 }
 td a:hover {
-  color: #ff8ba7;
+  color: #853953;
   text-decoration: underline;
 }
 
