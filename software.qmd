@@ -1,15 +1,16 @@
 ---
 title: "Packages"
 format: html
-page-layout: full
+tbl-colwidths: [25,10,65]
 ---
 
-A list of tools and packages that I have contributed to, either as a developer/maintainer or a occasional contributor:
+A list of tools and R/Bioconductor packages that I have contributed to, either as a developer/maintainer or a occasional contributor:
 
-| Package | Description | Link |
-|:---------|:-------------|:------|
-| **DeeDeeExperiment** | An S4 class built on SummarizedExperiment for integrating and managing omics data analysis results | available on [Bioconductor](https://www.bioconductor.org/packages/DeeDeeExperiment) |
-|**iSEEfier**| An R package for streamlining the creation of initial states for starting an iSEE instance | available on [Bioconductor](https://www.bioconductor.org/packages/iSEEfier) |
-|**NeuroVar**| An open-source tool for the visualization of gene expression and variation data for biomarkers of neurological diseases | available on [GitHub](https://github.com/omicscodeathon/neurovar) |
-|**exvar**| An R Package for Gene Expression and Genetic Variation Data Analysis and Visualization | available on [GitHub](https://github.com/omicscodeathon/exvar) |
-|**ROHStats**| An R package for fast and easy ROH statistics and visualization from PLINK outputs | available on [GitHub](https://github.com/NajlaAbassi/ROHStats)
+| Package |  | Description |
+|:---------|:----|:-------------|
+| [**EMMA**](https://github.com/imbeimainz/EMMA) | ![](img/EMMA-logo.png) | **E**nrichment **M**ethods **Ma**tter for enabling fully reproducible and provenance-aware pathway analysis |
+| [**DeeDeeExperiment**](https://www.bioconductor.org/packages/DeeDeeExperiment) |  | An S4 class built on `SingeCellExperiment` for integrating and managing omics data analysis results |
+|[**iSEEfier**](https://www.bioconductor.org/packages/iSEEfier)| ![](img/iSEEfier.png) | An R package for streamlining the creation of initial states for starting an `iSEE` instance |
+|[**NeuroVar**](https://github.com/omicscodeathon/neurovar)| ![](img/neurovar-logo.png) | An open-source tool for the visualization of gene expression and variation data for biomarkers of neurological diseases |
+|[**exvar**](https://github.com/omicscodeathon/exvar)| ![](img/exvar-logo.png) | An R Package for Gene Expression and Genetic Variation Data Analysis and Visualization |
+|[**ROHStats**](https://github.com/NajlaAbassi/ROHStats)|  | An R package for fast and easy ROH statistics and visualization from PLINK outputs |
