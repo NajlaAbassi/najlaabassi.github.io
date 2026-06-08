@@ -1,7 +1,6 @@
 ---
 title: "Publications"
 format: html
-page-layout: full
 ---
 
 [Google scholar](https://scholar.google.com/citations?user=XY4UafAAAAAJ&hl=en)
@@ -9,6 +8,8 @@ page-layout: full
 ## Research Papers
 
 ### 2026
+
+* Lossa, J., Schnöder, T. M., Ronge, Z., Haasch, N., Hodapp, K., Marini, F., **Abassi, N.**, … Muth, S. (2026). Type I interferon-activated NK cells control polycythemia vera in vivo. Blood, (blood.2026033951). ([doi](doi:10.1182/blood.2026033951))
 
 * **Abassi, N.**, Schwarz, L., Filippi, E., & Marini, F. (2026b). DeeDeeExperiment: Building an infrastructure for integrating and managing omics data analysis results in R/Bioconductor. Bioinformatics. ([doi](https://doi.org/10.1093/bioinformatics/btag157))
 
@@ -45,9 +46,12 @@ page-layout: full
 
 * Legscha, K. J. J., Märker, L. P., **Abassi, N.**, Yilmaz, A., Woelfel, C., Ferreira, E. A., Nedwed, A., Helbich, S. S., Delacher, M., Marini, F., Porubsky, S., Theobald, M., & Echchannaoui, H. (2024b). Deep cellular and molecular characterization reveal a distinct phenotype and metabolic signature of human senescent CD8+ T cells: Implication for cancer cellular therapy. Blood, 144(Supplement 1), 2536. ([doi](https://doi.org/10.1182/blood-2024-194719))
 
-* 
 
 ## Talks & presentations
+
+### 2026
+
+* **Abassi, N.**, Nedwed, A., & Marini, F. (2026). EMMA: Enrichment Methods Matter for achieving fully Reproducible Pathway Analysis. European Bioconductor Conference 2026 (EuroBioC2026), BioCity Turku, Turku, Finland. Zenodo. ([doi](https://doi.org/10.5281/zenodo.20446276))
 
 ### 2025
 
