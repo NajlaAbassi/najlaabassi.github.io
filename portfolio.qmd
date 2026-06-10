@@ -62,7 +62,7 @@ format: html
 
 - **Bioconductor Package Reviewer**
 
-- **Scientific program committee**, European Bioconductor Conference (EuroBioC)
+- **Member**, European Bioconductor Conference (EuroBioC)
 
 
 
