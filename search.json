@@ -1,45 +1,38 @@
 [
   {
-    "objectID": "portfolio.html",
-    "href": "portfolio.html",
+    "objectID": "cv.html",
+    "href": "cv.html",
     "title": "Portfolio",
     "section": "",
-    "text": "Research Associate, PhD student, Department of Genomic Statistics and Bioinformatics, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center Mainz, Mainz, Germany (since 10.2023)\n\nSFB1292 Project: Investigating the tissue repair program of Treg cells as an immune evasion strategy in tumor and chronic infections\n\nReseach Assistant, Laboratory of Biomedical Genomics and Oncogenetics, Institut Pasteur de Tunis, Tunis, Tunisia (04.2022-09.2023)\n\nProject: Estimation of homozygosity in the Tunisian population from high throughput genotyping data\n\nResearch Assistant, Laboratory of Anatomy and Pathological Cytology, Salah Azaiez Institute of Oncology, Tunis, Tunisia (06.2020-03.2021)\n\nProject: Study of PD-L1 expression in anaplastic large cell lymphoma ALK (-)"
+    "text": "Research Associate, PhD student, Department of Genomic Statistics and Bioinformatics, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center Mainz, Mainz, Germany (since 10.2023)\n\nSFB1292 Project: Investigating the tissue repair program of Treg cells as an immune evasion strategy in tumor and chronic infections\n\nThesis: Developing an R/Bioconductor framework for structuring, managing, and exploring omics data analysis results (Supervisor: Dr. Federico Marini)\n\n\nReseach Assistant, Laboratory of Biomedical Genomics and Oncogenetics, Institut Pasteur de Tunis, Tunis, Tunisia (04.2022-09.2023)\n\nProject: Estimation of homozygosity in the Tunisian population from high throughput genotyping data\n\nResearch Assistant, Laboratory of Anatomy and Pathological Cytology, Salah Azaiez Institute of Oncology, Tunis, Tunisia (06.2020-03.2021)\n\nProject: Study of PD-L1 expression in anaplastic large cell lymphoma ALK (-)"
   },
   {
-    "objectID": "portfolio.html#research-projects",
-    "href": "portfolio.html#research-projects",
+    "objectID": "cv.html#research-experience",
+    "href": "cv.html#research-experience",
     "title": "Portfolio",
     "section": "",
-    "text": "Research Associate, PhD student, Department of Genomic Statistics and Bioinformatics, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center Mainz, Mainz, Germany (since 10.2023)\n\nSFB1292 Project: Investigating the tissue repair program of Treg cells as an immune evasion strategy in tumor and chronic infections\n\nReseach Assistant, Laboratory of Biomedical Genomics and Oncogenetics, Institut Pasteur de Tunis, Tunis, Tunisia (04.2022-09.2023)\n\nProject: Estimation of homozygosity in the Tunisian population from high throughput genotyping data\n\nResearch Assistant, Laboratory of Anatomy and Pathological Cytology, Salah Azaiez Institute of Oncology, Tunis, Tunisia (06.2020-03.2021)\n\nProject: Study of PD-L1 expression in anaplastic large cell lymphoma ALK (-)"
+    "text": "Research Associate, PhD student, Department of Genomic Statistics and Bioinformatics, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center Mainz, Mainz, Germany (since 10.2023)\n\nSFB1292 Project: Investigating the tissue repair program of Treg cells as an immune evasion strategy in tumor and chronic infections\n\nThesis: Developing an R/Bioconductor framework for structuring, managing, and exploring omics data analysis results (Supervisor: Dr. Federico Marini)\n\n\nReseach Assistant, Laboratory of Biomedical Genomics and Oncogenetics, Institut Pasteur de Tunis, Tunis, Tunisia (04.2022-09.2023)\n\nProject: Estimation of homozygosity in the Tunisian population from high throughput genotyping data\n\nResearch Assistant, Laboratory of Anatomy and Pathological Cytology, Salah Azaiez Institute of Oncology, Tunis, Tunisia (06.2020-03.2021)\n\nProject: Study of PD-L1 expression in anaplastic large cell lymphoma ALK (-)"
   },
   {
-    "objectID": "portfolio.html#codeathons",
-    "href": "portfolio.html#codeathons",
+    "objectID": "cv.html#codeathons",
+    "href": "cv.html#codeathons",
     "title": "Portfolio",
     "section": "Codeathons",
     "text": "Codeathons\n\nASBCB Omics Codeathon April 2023, African Society for Bioinformatics and Computational Biology\n\nProject: Development of an open-source tool for the visualization of gene expression and variation data for biomarkers of neurological diseases\nGitHub Repo\nPublication\n\nASBCB Omics Codeathon Oct 2022, African Society for Bioinformatics and Computational Biology\n\nProject: Development of an R package for data analysis and visualization\nGitHub Repo\nPublication"
   },
   {
-    "objectID": "portfolio.html#workshops",
-    "href": "portfolio.html#workshops",
+    "objectID": "cv.html#conference-presentations",
+    "href": "cv.html#conference-presentations",
     "title": "Portfolio",
-    "section": "Workshops",
-    "text": "Workshops\n\nStreamlining Omics Data Visualization with iSEE and iSEEfier\n\nStudent Conference on Biological Sciences 2024 (SCBS2024)\nMaterial"
+    "section": "Conference Presentations",
+    "text": "Conference Presentations\n\nInvited Workshop\n\nStreamlining Omics Data Visualization with iSEE and iSEEfier\n\nStudent Conference on Biological Sciences 2024 (SCBS2024)\nMaterial\n\n\n\n\nShort Talk\n\nEuroBioC2024\nSlides : One class to rule them all: DeeDeeExperiment for managing and exploring omics analysis results\n\n\n\nPoster\n\nEuroBioC2026\n\nEMMA: Enrichment Methods Matter for achieving fully Reproducible Pathway Analysis\n\nEuroBioC2025\n\niSEEfier: Starting to use iSEE became even easier"
   },
   {
-    "objectID": "portfolio.html#conference-contributions",
-    "href": "portfolio.html#conference-contributions",
-    "title": "Portfolio",
-    "section": "Conference Contributions",
-    "text": "Conference Contributions\n\nEuroBioC2026\n\nPoster : EMMA: Enrichment Methods Matter for achieving fully Reproducible Pathway Analysis\n\nEuroBioC2025\n\nShort Talk : One class to rule them all: DeeDeeExperiment for managing and exploring omics analysis results\n\nEuroBioC2024\n\nPoster : iSEEfier: Starting to use iSEE became even easier"
-  },
-  {
-    "objectID": "portfolio.html#scientific-community-activities",
-    "href": "portfolio.html#scientific-community-activities",
+    "objectID": "cv.html#scientific-community-activities",
+    "href": "cv.html#scientific-community-activities",
     "title": "Portfolio",
     "section": "Scientific Community Activities",
-    "text": "Scientific Community Activities\n\nBioconductor Package Reviewer\nMember, European Bioconductor Conference (EuroBioC)"
+    "text": "Scientific Community Activities\n\nPackage Reviewer, Bioconductor (since May 2026)\nOrganizing Committee Member, European Bioconductor Conference (EuroBioC) (since Sept 2024)\nMentor, 16th Mainzer SommerUni Immunologie und Biomedizin (IRTG/SFB1292) (July 2024)"
   },
   {
     "objectID": "TIL/TIL_entry1.html",
@@ -67,14 +60,14 @@
     "href": "index.html",
     "title": "Najla Abassi",
     "section": "",
-    "text": "☀️ Researcher by day | 🌙 Artist by night\nHi I’m Najla 👋 I’m a Research Associate and PhD candidate at Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center Mainz, Germany, with a background in biology and a focus on bioinformatics. My research centers on analyzing omics data, particularly transcriptomics, and developing R packages to help biologists in uncovering biological insights. Outside of work, I’m a self-taught digital artist who loves creating colorful illustrations and finding inspiration in nature.\n\n\n\nMaster of Science in Bioinformatics, University of Manouba, Tunisia (2021-2022)\nMaster of Science in Biochemistry, University of Tunis El Manar, Tunisia (2018-2021)\nBachelor of Science in Biology, University of Tunis El Manar, Tunisia (2015-2018)\n\n\n\n\n\nProfessional illustrator and Digital artist\n\nArt Gallery:  Instagram"
+    "text": "☀️ Researcher by day | 🌙 Artist by night\nHi I’m Najla 👋 I’m a Research Associate and PhD candidate at Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center Mainz, Germany, with a background in biology and a focus on bioinformatics. My research centers on analyzing omics data, particularly transcriptomics, and developing R packages to help biologists uncover biological insights. Outside of work, I’m a self-taught digital artist who loves creating colorful illustrations and finding inspiration in nature.\n\n\n\nPhD candidate in Bioinformatics, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center Mainz, Germany (since Oct 2023)\nMaster of Science in Bioinformatics, University of Manouba, Tunisia (2021-2022)\nMaster of Science in Biochemistry, University of Tunis El Manar, Tunisia (2018-2021)\nBachelor of Science in Biology, University of Tunis El Manar, Tunisia (2015-2018)\n\n\n\n\n\nProfessional illustrator and Digital artist\n\nArt Gallery:  Instagram"
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Najla Abassi",
     "section": "",
-    "text": "☀️ Researcher by day | 🌙 Artist by night\nHi I’m Najla 👋 I’m a Research Associate and PhD candidate at Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center Mainz, Germany, with a background in biology and a focus on bioinformatics. My research centers on analyzing omics data, particularly transcriptomics, and developing R packages to help biologists in uncovering biological insights. Outside of work, I’m a self-taught digital artist who loves creating colorful illustrations and finding inspiration in nature.\n\n\n\nMaster of Science in Bioinformatics, University of Manouba, Tunisia (2021-2022)\nMaster of Science in Biochemistry, University of Tunis El Manar, Tunisia (2018-2021)\nBachelor of Science in Biology, University of Tunis El Manar, Tunisia (2015-2018)\n\n\n\n\n\nProfessional illustrator and Digital artist\n\nArt Gallery:  Instagram"
+    "text": "☀️ Researcher by day | 🌙 Artist by night\nHi I’m Najla 👋 I’m a Research Associate and PhD candidate at Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center Mainz, Germany, with a background in biology and a focus on bioinformatics. My research centers on analyzing omics data, particularly transcriptomics, and developing R packages to help biologists uncover biological insights. Outside of work, I’m a self-taught digital artist who loves creating colorful illustrations and finding inspiration in nature.\n\n\n\nPhD candidate in Bioinformatics, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center Mainz, Germany (since Oct 2023)\nMaster of Science in Bioinformatics, University of Manouba, Tunisia (2021-2022)\nMaster of Science in Biochemistry, University of Tunis El Manar, Tunisia (2018-2021)\nBachelor of Science in Biology, University of Tunis El Manar, Tunisia (2015-2018)\n\n\n\n\n\nProfessional illustrator and Digital artist\n\nArt Gallery:  Instagram"
   },
   {
     "objectID": "today_i_learned.html",
@@ -102,7 +95,7 @@
     "href": "publications.html#research-papers",
     "title": "Publications",
     "section": "Research Papers",
-    "text": "Research Papers\n\n2026\n\nLossa, J., Schnöder, T. M., Ronge, Z., Haasch, N., Hodapp, K., Marini, F., Abassi, N., … Muth, S. (2026). Type I interferon-activated NK cells control polycythemia vera in vivo. Blood, (blood.2026033951). (doi)\nAbassi, N., Schwarz, L., Filippi, E., & Marini, F. (2026b). DeeDeeExperiment: Building an infrastructure for integrating and managing omics data analysis results in R/Bioconductor. Bioinformatics. (doi)\n\n\n\n2025\n\nNedwed, A. S., Ustjanzew, A., Abassi, N., Dammer, L., Schulze, A., Helbich, S. S., Delacher, M., Strauch, K., & Marini, F. (2025). GeDi: simplifying gene set distances for enhanced omics interpretation in R/Bioconductor. BMC Bioinformatics, 27(1), 14. (doi)\nHemberg, M., Marini, F., Ghazanfar, S., Ajami, A. A., Abassi, N., Anchang, B., Benayoun, B. A., Cao, Y., Chen, K., Cuesta-Astroz, Y., DeBruine, Z., Dendrou, C. A., De Vlaminck, I., Imkeller, K., Korsunsky, I., Lederer, A. R., Li, J. J., Meysman, P., Miller, C. L., . . . Jelic, I. (2025). Insights, opportunities, and challenges provided by large cell atlases. Genome Biology, 26(1), 358. (doi)\nAribi, H. B., Dixon, I., Abassi, N., & Awe, O. I. (2025). Efficient and easy gene expression and genetic variation data analysis and visualization using exvar. Scientific Reports, 15(1). (doi)\nWeinmann-Menke, J., Gonzalez-Sanchez, H. M., Iwata, Y., Meineck, M., Abassi, N., Marini, F., Granados-Contreras, F., Takakura, A., Noda, M., & Kelley, V. R. (2025). PTPRZ signaling, Tubule- and Macrophage-Mediated Kidney Injury, and subsequent CKD. Journal of the American Society of Nephrology. (doi)\n\n\n\n2024\n\nAribi, H. B., Abassi, N., & Awe, O. I. (2024). NeuroVar: an open-source tool for the visualization of gene expression and variation data for biomarkers of neurological diseases. Gigabyte, 2024. (doi)\nMezzi, N., Abassi, N., Fatnassi, F., Abdelhak, S., & Romdhane, L. (2024). Consanguinité et son impact sur la santé et la dynamique du génome : Un exemple de la Tunisie. La Tunisie Médicale, 102(5). (doi)\nRomdhane, L., Kefi, S., Mezzi, N., Abassi, N., Jmel, H., Romdhane, S., Shan, J., Chouchane, L., & Abdelhak, S. (2024). Ethnic and functional differentiation of copy number polymorphisms in Tunisian and HapMap population unveils insights on genome organizational plasticity. Scientific Reports, 14(1). (doi)"
+    "text": "Research Papers\n\n2026\n\nLossa, J., Schnöder, T. M., Ronge, Z., Haasch, N., Hodapp, K., Marini, F., Abassi, N., … Muth, S. (2026). Type I interferon-activated NK cells control polycythemia vera in vivo. Blood, (blood.2026033951). (doi)\nAbassi, N., Schwarz, L., Filippi, E., & Marini, F. (2026). DeeDeeExperiment: Building an infrastructure for integrating and managing omics data analysis results in R/Bioconductor. Bioinformatics. (doi)\n\n\n\n2025\n\nNedwed, A. S., Ustjanzew, A., Abassi, N., Dammer, L., Schulze, A., Helbich, S. S., Delacher, M., Strauch, K., & Marini, F. (2025). GeDi: simplifying gene set distances for enhanced omics interpretation in R/Bioconductor. BMC Bioinformatics, 27(1), 14. (doi)\nHemberg, M., Marini, F., Ghazanfar, S., Ajami, A. A., Abassi, N., Anchang, B., Benayoun, B. A., Cao, Y., Chen, K., Cuesta-Astroz, Y., DeBruine, Z., Dendrou, C. A., De Vlaminck, I., Imkeller, K., Korsunsky, I., Lederer, A. R., Li, J. J., Meysman, P., Miller, C. L., . . . Jelic, I. (2025). Insights, opportunities, and challenges provided by large cell atlases. Genome Biology, 26(1), 358. (doi)\nAribi, H. B., Dixon, I., Abassi, N., & Awe, O. I. (2025). Efficient and easy gene expression and genetic variation data analysis and visualization using exvar. Scientific Reports, 15(1). (doi)\nWeinmann-Menke, J., Gonzalez-Sanchez, H. M., Iwata, Y., Meineck, M., Abassi, N., Marini, F., Granados-Contreras, F., Takakura, A., Noda, M., & Kelley, V. R. (2025). PTPRZ signaling, Tubule- and Macrophage-Mediated Kidney Injury, and subsequent CKD. Journal of the American Society of Nephrology. (doi)\n\n\n\n2024\n\nAribi, H. B., Abassi, N., & Awe, O. I. (2024). NeuroVar: an open-source tool for the visualization of gene expression and variation data for biomarkers of neurological diseases. Gigabyte, 2024. (doi)\nMezzi, N., Abassi, N., Fatnassi, F., Abdelhak, S., & Romdhane, L. (2024). Consanguinité et son impact sur la santé et la dynamique du génome : Un exemple de la Tunisie. La Tunisie Médicale, 102(5). (doi)\nRomdhane, L., Kefi, S., Mezzi, N., Abassi, N., Jmel, H., Romdhane, S., Shan, J., Chouchane, L., & Abdelhak, S. (2024). Ethnic and functional differentiation of copy number polymorphisms in Tunisian and HapMap population unveils insights on genome organizational plasticity. Scientific Reports, 14(1). (doi)"
   },
   {
     "objectID": "publications.html#preprints-abstracts",
@@ -112,17 +105,10 @@
     "text": "Preprints & Abstracts\n\n2026\n\nRausch, J., Wendel, P., Dzama-Karels, M., Steiner, M., Gierschek, F., Fetsch, V., Knapp, L. R., Abassi, N., Kuhmann, M., Viehböck, L., Weisemann, S., Dolgikh, N., Habermann, J., Lahrmann, C., Klein, M., Delacher, M., Wölfel, C., Döhner, K., Döhner, H., . . . Kühn, M. W. (2026). Menin-Inhibition sensitizes acute myeloid leukemia to CLEC12A-Directed CAR cell therapy. bioRxiv (Cold Spring Harbor Laboratory). (doi)\n\n\n\n2025\n\nDamara, A., Abassi, N., Mihoc, D., Nastaranpour, M., Kraft, P., Sarkar, T., Deppermann, C., Mayer, J. U., Grabbe, S., Delacher, M., Marini, F., & Shahneh, F. (2025). KDM6B inhibition modulates monocyte activation and alleviates IMQ-psoriasis skin inflammation. bioRxiv (Cold Spring Harbor Laboratory). (doi)\n\n\n\n2024\n\nLegscha, K. J. J., Märker, L. P., Abassi, N., Yilmaz, A., Woelfel, C., Ferreira, E. A., Nedwed, A., Helbich, S. S., Delacher, M., Marini, F., Porubsky, S., Theobald, M., & Echchannaoui, H. (2024b). Deep cellular and molecular characterization reveal a distinct phenotype and metabolic signature of human senescent CD8+ T cells: Implication for cancer cellular therapy. Blood, 144(Supplement 1), 2536. (doi)"
   },
   {
-    "objectID": "publications.html#talks-presentations",
-    "href": "publications.html#talks-presentations",
-    "title": "Publications",
-    "section": "Talks & presentations",
-    "text": "Talks & presentations\n\n2026\n\nAbassi, N., Nedwed, A., & Marini, F. (2026). EMMA: Enrichment Methods Matter for achieving fully Reproducible Pathway Analysis. European Bioconductor Conference 2026 (EuroBioC2026), BioCity Turku, Turku, Finland. Zenodo. (doi)\n\n\n\n2025\n\nAbassi, N., Rothörl, L., & Marini, F. (2025, September 17). One class to rule them all: DeeDeeExperiment for managing and exploring omics analysis results. European Bioconductor Conference 2025 (EuroBioC2025), Barcelona Biomedical Research Park (PRBB), Barcelona, Spain. Zenodo. (doi)"
-  },
-  {
     "objectID": "software.html",
     "href": "software.html",
     "title": "Packages",
     "section": "",
-    "text": "A list of tools and R/Bioconductor packages that I have contributed to, either as a developer/maintainer or a occasional contributor:\n\n\n\n\n\n\n\n\nPackage\n\nDescription\n\n\n\n\nEMMA\n\nEnrichment Methods Matter for enabling fully reproducible and provenance-aware pathway analysis\n\n\nDeeDeeExperiment\n\nAn S4 class built on SingeCellExperiment for integrating and managing omics data analysis results\n\n\niSEEfier\n\nAn R package for streamlining the creation of initial states for starting an iSEE instance\n\n\nNeuroVar\n\nAn open-source tool for the visualization of gene expression and variation data for biomarkers of neurological diseases\n\n\nexvar\n\nAn R Package for Gene Expression and Genetic Variation Data Analysis and Visualization\n\n\nROHStats\n\nAn R package for fast and easy ROH statistics and visualization from PLINK outputs\n\n\n\n\n\n\n Back to top"
+    "text": "A list of tools and R/Bioconductor packages that I have contributed to, either as a developer/maintainer or a occasional contributor:\n\n\n\n\n\n\n\n\nPackage\n\nDescription\n\n\n\n\nEMMA\n\nAchieve fully reproducible and provenance-aware pathway analyses\n\n\nDeeDeeExperiment\n\nAn S4 class for integrating and managing omics data analysis results\n\n\niSEEfier\n\nStreamline the creation of initial states for starting an iSEE instance\n\n\nNeuroVar\n\nGene expression and variation data visualization for biomarkers of neurological diseases\n\n\nexvar\n\nGene expression and genetic variation data analysis and visualization\n\n\nROHStats\n\nFast and easy ROH statistics and visualization from PLINK outputs\n\n\n\n\n\n\n Back to top"
   }
 ]
