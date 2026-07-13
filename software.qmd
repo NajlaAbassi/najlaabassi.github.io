@@ -8,7 +8,7 @@ A list of tools and R/Bioconductor packages that I have contributed to, either a
 
 | Package |  | Description |
 |:---------|:----|:-------------|
-| [**EMMA**](https://github.com/imbeimainz/EMMA) | ![](img/EMMA-logo.png) | Achieve fully reproducible and provenance-aware pathway analyses |
+| [**EMMA**](https://www.bioconductor.org/packages/EMMA) | ![](img/EMMA-logo.png) | Achieve fully reproducible and provenance-aware pathway analyses |
 | [**DeeDeeExperiment**](https://www.bioconductor.org/packages/DeeDeeExperiment) |  | An S4 class for integrating and managing omics data analysis results |
 |[**iSEEfier**](https://www.bioconductor.org/packages/iSEEfier)| ![](img/iSEEfier.png) | Streamline the creation of initial states for starting an iSEE instance |
 |[**NeuroVar**](https://github.com/omicscodeathon/neurovar)| ![](img/neurovar-logo.png) | Gene expression and variation data visualization for biomarkers of neurological diseases |
