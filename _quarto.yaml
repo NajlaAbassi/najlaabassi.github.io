@@ -13,8 +13,8 @@ website:
         href: index.qmd
       - text: "Publications"
         href: publications.qmd
-      - text: "Portfolio"
-        href: portfolio.qmd
+      - text: "CV"
+        href: cv.qmd
       - text: "Software"
         href: software.qmd
       - text: "Blog"
