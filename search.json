@@ -14,6 +14,20 @@
     "text": "Research Associate, PhD student, Department of Genomic Statistics and Bioinformatics, Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), University Medical Center Mainz, Mainz, Germany (since 10.2023)\n\nSFB1292 Project: Investigating the tissue repair program of Treg cells as an immune evasion strategy in tumor and chronic infections\n\nThesis: Developing an R/Bioconductor framework for structuring, managing, and exploring omics data analysis results (Supervisor: Dr. Federico Marini)\n\n\nReseach Assistant, Laboratory of Biomedical Genomics and Oncogenetics, Institut Pasteur de Tunis, Tunis, Tunisia (04.2022-09.2023)\n\nProject: Estimation of homozygosity in the Tunisian population from high throughput genotyping data\n\nResearch Assistant, Laboratory of Anatomy and Pathological Cytology, Salah Azaiez Institute of Oncology, Tunis, Tunisia (06.2020-03.2021)\n\nProject: Study of PD-L1 expression in anaplastic large cell lymphoma ALK (-)"
   },
   {
+    "objectID": "cv.html#scientific-community-activities",
+    "href": "cv.html#scientific-community-activities",
+    "title": "Portfolio",
+    "section": "Scientific Community Activities",
+    "text": "Scientific Community Activities\n\nPackage Reviewer, Bioconductor (since May 2026)\nOrganizing Committee Member, European Bioconductor Conference (EuroBioC) (since Sept 2024)\nMentor, 16th Mainzer SommerUni Immunologie und Biomedizin (IRTG/SFB1292) (July 2024)"
+  },
+  {
+    "objectID": "cv.html#teaching",
+    "href": "cv.html#teaching",
+    "title": "Portfolio",
+    "section": "Teaching",
+    "text": "Teaching\n\niSEE Workshop, IMBEI, University Medical Center Mainz, Germany (May 2024)\nIntroduction to R, IMBEI, University Medical Center Mainz, Germany (Feb 2024)\nSingle cell data analysis Workshop, IMBEI, University Medical Center Mainz, Germany (Feb 2024)"
+  },
+  {
     "objectID": "cv.html#codeathons",
     "href": "cv.html#codeathons",
     "title": "Portfolio",
@@ -26,13 +40,6 @@
     "title": "Portfolio",
     "section": "Conference Presentations",
     "text": "Conference Presentations\n\nInvited Workshop\n\nStreamlining Omics Data Visualization with iSEE and iSEEfier\n\nStudent Conference on Biological Sciences 2024 (SCBS2024)\nMaterial\n\n\n\n\nShort Talk\n\nEuroBioC2024\nSlides : One class to rule them all: DeeDeeExperiment for managing and exploring omics analysis results\n\n\n\nPoster\n\nEuroBioC2026\n\nEMMA: Enrichment Methods Matter for achieving fully Reproducible Pathway Analysis\n\nEuroBioC2025\n\niSEEfier: Starting to use iSEE became even easier"
-  },
-  {
-    "objectID": "cv.html#scientific-community-activities",
-    "href": "cv.html#scientific-community-activities",
-    "title": "Portfolio",
-    "section": "Scientific Community Activities",
-    "text": "Scientific Community Activities\n\nPackage Reviewer, Bioconductor (since May 2026)\nOrganizing Committee Member, European Bioconductor Conference (EuroBioC) (since Sept 2024)\nMentor, 16th Mainzer SommerUni Immunologie und Biomedizin (IRTG/SFB1292) (July 2024)"
   },
   {
     "objectID": "TIL/TIL_entry1.html",
