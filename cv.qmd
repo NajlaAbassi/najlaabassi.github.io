@@ -15,6 +15,17 @@ format: html
 - **Research Assistant**, Laboratory of Anatomy and Pathological Cytology, Salah Azaiez Institute of Oncology, Tunis, Tunisia (06.2020-03.2021)
   - **Project**: Study of PD-L1 expression in anaplastic large cell lymphoma ALK (-)
 
+## Scientific Community Activities
+
+- **Package Reviewer**, Bioconductor (since May 2026)
+- **Organizing Committee Member**, European Bioconductor Conference (EuroBioC) (since Sept 2024)
+- **Mentor**, 16th Mainzer SommerUni Immunologie und Biomedizin (IRTG/SFB1292) (July 2024)
+
+## Teaching
+
+- [**iSEE Workshop**](https://github.com/iSEE/iUSEiSEE), IMBEI, University Medical Center Mainz, Germany (May 2024)
+- [**Introduction to R**](https://github.com/imbeimainz/courseware_CTH_2024), IMBEI, University Medical Center Mainz, Germany (Feb 2024)
+- [**Single cell data analysis Workshop**](https://github.com/imbeimainz/SingleCellRNAseqWorkshop2024), IMBEI, University Medical Center Mainz, Germany (Feb 2024)
 
 ## Codeathons
 
@@ -50,11 +61,6 @@ format: html
 - [EuroBioC2025](https://eurobioc2025.bioconductor.org/)
   - iSEEfier: Starting to use iSEE became even easier
 
-## Scientific Community Activities
-
-- **Package Reviewer**, Bioconductor (since May 2026)
-- **Organizing Committee Member**, European Bioconductor Conference (EuroBioC) (since Sept 2024)
-- **Mentor**, 16th Mainzer SommerUni Immunologie und Biomedizin (IRTG/SFB1292) (July 2024)
 
 
 
